@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<div class="post-list">
+  {% for post in site.posts %}
+  <article class="post-item">
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    {% if post.excerpt %}<p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>{% endif %}
+  </article>
+  {% else %}
+  <p>아직 작성된 글이 없습니다.</p>
+  {% endfor %}
+</div>
