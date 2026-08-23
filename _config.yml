@@ -1,0 +1,37 @@
+title: bslee's blog
+description: 생각과 기록을 남기는 개인 블로그
+author: bslee
+email: bumdak@naver.com
+baseurl: ""
+url: "https://bslee-dev.github.io"
+
+lang: ko
+
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
