@@ -1,0 +1,23 @@
+---
+layout: page
+title: Categories
+permalink: /categories/
+---
+<div class="taxonomy-index">
+  {% for cat_name in site.category_list %}
+    {% assign cat_posts = site.categories[cat_name] | sort: 'date' | reverse %}
+    {% if cat_posts.size > 0 %}
+    <section class="taxonomy-group" id="{{ cat_name | slugify: 'raw' }}">
+      <h2>{{ cat_name }} <span class="count">{{ cat_posts.size }}</span></h2>
+      <ul class="taxonomy-post-list">
+        {% for post in cat_posts %}
+        <li>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+  {% endfor %}
+</div>

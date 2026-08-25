@@ -7,6 +7,13 @@ url: "https://bslee-dev.github.io"
 
 lang: ko
 
+# /categories/ 페이지에 표시할 카테고리와 그 순서.
+# 새 카테고리를 쓰게 되면 여기에도 추가한다.
+category_list:
+  - 게임역사
+  - 캐릭터평전
+  - 서브컬처
+
 permalink: /:year/:month/:day/:title/
 
 markdown: kramdown
