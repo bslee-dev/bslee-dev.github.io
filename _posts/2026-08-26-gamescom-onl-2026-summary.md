@@ -1,7 +1,8 @@
 ---
 title: "게임스컴 2026 Opening Night Live 총정리 — 발표작, 출시일, 공식 트레일러"
+description: "70편 이상이 등장한 게임스컴 2026 Opening Night Live를, 감상 대신 실제 발표작과 확정된 출시일 중심으로 정리했다."
 category: 게임뉴스
-tags: [게임, 게임스컴, gamescom, ONL, 게임뉴스]
+tags: [게임스컴, ONL]
 date: 2026-08-26 14:51:00 +0900
 ---
 

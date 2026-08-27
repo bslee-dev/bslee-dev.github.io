@@ -1,7 +1,8 @@
 ---
 title: "게임스컴 2026 Day 1 총정리 — Xbox·Future Games Show·밤사이 추가 발표"
+description: "ONL 이후 밤사이 이어진 Xbox @ gamescom Day 1과 Future Games Show. 새로 공개되거나 구체화된 정보만 골라 정리했다."
 category: 게임뉴스
-tags: [게임, 게임스컴, gamescom, Xbox, Future Games Show, FGS, 게임뉴스]
+tags: [게임스컴, Xbox, Future Games Show]
 date: 2026-08-27 11:07:00 +0900
 ---
 

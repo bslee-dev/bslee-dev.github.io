@@ -1,32 +1,26 @@
 ---
 title: Series
+description: "게임과 서브컬처의 역사를 주제별로 이어 읽을 수 있게 묶은 기획 페이지."
 permalink: /series/
 ---
 
 개별 글을 주제별로 이어 읽을 수 있도록 묶은 기획 페이지입니다. 글이 쌓이면 이곳의 시리즈도 계속 확장합니다.
 
-## 1990년대 연애·육성 시뮬레이션
+{% comment %}
+  시리즈는 태그로 모은다. 새 시리즈를 만들 때는 아래 목록에
+  [표시 이름, 모을 태그] 한 쌍을 추가하고 글에 그 태그를 붙이면 된다.
+{% endcomment %}
+{% assign series_defs = "1990년대 연애·육성 시뮬레이션|연애시뮬레이션,아이돌마스터의 역사|아이돌마스터,코에이 삼국지|삼국지,일본 PC의 시대|일본PC" | split: "," %}
 
-{% assign romance_posts = site.posts | where_exp: "post", "post.tags contains '연애시뮬레이션'" %}
-{% for post in romance_posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-{% else %}
-아직 등록된 글이 없습니다.
-{% endfor %}
+{% for def in series_defs %}
+  {% assign parts = def | split: "|" %}
+  {% assign label = parts[0] %}
+  {% assign tag = parts[1] %}
+  {% assign series_posts = site.tags[tag] | sort: "date" %}
+## {{ label }}
 
-## 아이돌마스터의 역사
-
-{% for post in site.posts %}
-{% if post.title contains '아이돌마스터' %}
-- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%Y-%m-%d" }}</small>
-{% endif %}
-{% endfor %}
-
-## 코에이 삼국지
-
-{% for post in site.posts %}
-{% if post.title contains '삼국지' %}
-- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+{% if series_posts.size > 0 %}{% for post in series_posts %}- [{{ post.title }}]({{ post.url | relative_url }}) <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+{% endfor %}{% else %}아직 등록된 글이 없습니다.
 {% endif %}
 {% endfor %}
 
