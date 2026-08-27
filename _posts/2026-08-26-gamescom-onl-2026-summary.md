@@ -456,7 +456,7 @@ Game Informer 집계 기준 원작의 두 확장팩도 포함될 예정이다. �
 - Crimson Desert Enhanced
 - Hitman: World of Assassination — The Herbalist
 
-## 마무리
+## ONL은 아직 예고편이다
 
 ONL은 gamescom 2026 전체 일정의 시작에 불과하다.
 
@@ -464,7 +464,7 @@ ONL은 gamescom 2026 전체 일정의 시작에 불과하다.
 
 특히 The Witcher 3: Songs of the Past와 Remastered는 gamescom 현장에서 별도 프레젠테이션이 예정돼 있고, KRAFTON 역시 ONL에 등장한 신작들을 행사 기간에 계속 소개한다.
 
-이 글은 **2026년 8월 26일 오후 기준 발표 정보**를 기록한 것이며, 이후 gamescom 기간 중 추가로 확정되는 세부 플랫폼·테스트 일정·출시 일정은 별도의 후속 정리가 필요하다.
+이 글은 **2026년 8월 26일 오후 기준 발표 정보**를 기록한 것이다. 이후 밤사이 이어진 Xbox @ gamescom Day 1과 Future Games Show는 [게임스컴 2026 Day 1 총정리](/2026/08/27/gamescom-2026-day1-xbox-future-games-show/)에서 이어서 정리했다.
 
 ## 참고 자료
 

@@ -117,6 +117,8 @@ date: 2026-08-25 11:00:00 +0900
 
 1985년에 만들어진 이 구조는 이후 40년 동안 코에이 `삼국지` 시리즈의 정체성이 됐다.
 
+다만 이 시점의 삼국지는 아직 계략도, 일기토도, 실제 도시 이름도 없다. 그것들이 어떻게 붙어서 우리가 아는 형태가 되는지는 [2편](/2026/08/25/koei-sangokushi-2-history/)과 [3편](/2026/08/27/koei-sangokushi-3-history/)에서 이어서 정리했다.
+
 ## 참고 자료 — 일본어 자료 중심
 - [コーエーテクモゲームス - シブサワ・コウ40周年記念サイト](https://www.gamecity.ne.jp/shibusawa-kou/history.html)
 - [『三國志』40周年記念サイト](https://www.gamecity.ne.jp/sangokushi40th/)

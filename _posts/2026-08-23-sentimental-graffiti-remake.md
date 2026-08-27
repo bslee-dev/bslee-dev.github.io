@@ -27,9 +27,9 @@ date: 2026-08-23 09:00:00 +0900
 
 리메이크 소식 자체도 반갑지만, 개인적으로는 "시나리오를 시대에 맞게 조정한다"는 문구가 제일 눈에 띈다. 90년대 감성 연애 시뮬레이션을 지금 플레이하면 확실히 걸리는 지점들이 있어서, 어떤 식으로 손볼지 궁금하다. 발매일 나오면 다시 정리해봐야겠다.
 
----
-
-**참고**
+## 참고 자료
 - [Sentimental Graffiti Re announced - Gematsu](https://www.gematsu.com/2026/06/sentimental-graffiti-re-announced)
 - [SEGA Saturn Dating Sim 'Sentimental Graffiti' Will Be Resurrected on PS5 - Push Square](https://www.pushsquare.com/news/2026/07/sega-saturn-dating-sim-sentimental-graffiti-will-be-resurrected-on-ps5)
 - [Sentimental Graffiti Re Will Release on PlayStation 5 and Nintendo Switch - Final Weapon](https://finalweapon.net/2026/07/06/sentimental-graffiti-re-will-release-on-playstation-5-and-nintendo-switch/)
+
+**작성 기준: 2026-08-23 KST**

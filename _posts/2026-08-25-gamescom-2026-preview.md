@@ -137,6 +137,8 @@ Nintendo, Xbox, Ubisoft, Bandai Namco, Capcom, SEGA, CD PROJEKT RED 등 주요 �
 
 이번 행사에서 어떤 작품이 예상 이상으로 좋은 평가를 받을지, 그리고 Opening Night Live의 숨겨진 발표가 무엇일지가 본격적인 관전 포인트다.
 
+덧붙임 — 실제 ONL에서 무엇이 나왔는지는 [게임스컴 2026 Opening Night Live 총정리](/2026/08/26/gamescom-onl-2026-summary/)에, 그 뒤 이어진 Xbox Day 1과 Future Games Show는 [Day 1 총정리](/2026/08/27/gamescom-2026-day1-xbox-future-games-show/)에 따로 기록했다.
+
 ## 참고 자료
 - [gamescom 공식 사이트](https://www.gamescom.global/)
 - [gamescom — Opening Night Live 2026](https://www.gamescom.global/de/explore-gamescom/onl)
