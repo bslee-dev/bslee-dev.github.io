@@ -5,7 +5,6 @@ category: 게임뉴스
 tags: [게임스컴, Xbox, Future Games Show]
 date: 2026-08-27 11:07:00 +0900
 ---
-
 게임스컴 2026은 Opening Night Live가 끝난 뒤에도 곧바로 발표가 이어졌다.
 
 앞선 글인 [게임스컴 2026 Opening Night Live 총정리 — 발표작, 출시일, 공식 트레일러](/2026/08/26/gamescom-onl-2026-summary/)에서는 개막 방송을 정리했다. 이번 글은 그 뒤 **한국 시간 8월 26일 밤부터 27일 오전 사이**에 진행된 Xbox @ gamescom Day 1, Future Games Show at gamescom, 그리고 바로 이어진 FGS Live From gamescom을 묶은 후속 기록이다.
@@ -25,10 +24,10 @@ date: 2026-08-27 11:07:00 +0900
 
 | 구분 | 핵심 내용 |
 |---|---|
-| Xbox | 실물 디스크를 지원 게임의 디지털 권리와 연결하는 **Disc-to-Digital** 공개 |
+| Xbox | 실물 디스크를 지원 게임의 디지털 권리와 연결하는 Disc-to-Digital 공개 |
 | Fable | gamescom 첫 플레이어블 데모 공개. 근접·원거리·마법을 끊김 없이 섞는 전투 구조 상세 공개 |
 | Tomb Raider: Legacy of Atlantis | 페루 구간을 포함한 확장 게임플레이 공개 |
-| Xbox 신작 | **Dumpster Gang**, **Terrible Lizards** 등 추가 공개 |
+| Xbox 신작 | Dumpster Gang, Terrible Lizards 등 추가 공개 |
 | Future Games Show | 40편 이상 등장, 주최 측 집계 **13개의 월드 프리미어 트레일러** 포함 |
 | Wolcen 2 | 전작의 정식 후속작 첫 공개, 2027년 Early Access |
 | Greak 2: Alliance of the Storms | 협동 메트로배니아 후속작 첫 공개 |
@@ -73,9 +72,9 @@ ONL 이후 밤사이에 다시 확인되거나 새로 공개된 주요 일정만
 
 ## Xbox의 가장 큰 발표는 게임이 아니라 Disc-to-Digital
 
-Xbox Day 1에서 가장 의미가 큰 플랫폼 발표는 **Disc-to-Digital**이었다.
+Xbox Day 1에서 가장 의미가 큰 플랫폼 발표는 Disc-to-Digital이었다.
 
-Microsoft 설명에 따르면 지원되는 Xbox One 또는 Xbox Series X 디스크를 콘솔에 넣고 게임을 실행하면 해당 타이틀의 **digital entitlement**, 즉 디지털 이용 권리를 계정에 연결할 수 있다.
+Microsoft 설명에 따르면 지원되는 Xbox One 또는 Xbox Series X 디스크를 콘솔에 넣고 게임을 실행하면 해당 타이틀의 digital entitlement, 즉 디지털 이용 권리를 계정에 연결할 수 있다.
 
 이후 해당 게임이 지원한다면 Xbox Play Anywhere나 Xbox Cloud Gaming 같은 디지털 기능을 이용할 수 있다. 기존 실물 디스크 자체도 이전처럼 계속 사용할 수 있다.
 
@@ -93,11 +92,11 @@ Microsoft가 실물 소프트웨어 보존 문제에 플랫폼 차원에서 답�
 
 ## Fable — 처음으로 직접 플레이한 전투가 공개됐다
 
-Playground Games의 **Fable**은 이번 gamescom에서 처음으로 press와 creator가 직접 플레이하는 데모를 제공했다.
+Playground Games의 Fable은 이번 gamescom에서 처음으로 press와 creator가 직접 플레이하는 데모를 제공했다.
 
 시연 퀘스트는 `Mud and Death`다. 주인공 Hero가 Heroes' Guild의 리더 Humphry와 함께 한때 침수됐던 광산으로 들어가 유령과 해골을 상대한다.
 
-이번 데모에서 가장 명확해진 것은 전투 구조다. 과거 Fable의 **Strength / Skill / Will** 개념을 계승하면서도 근접 공격, 원거리 무기, 마법을 상황에 따라 자연스럽게 전환한다.
+이번 데모에서 가장 명확해진 것은 전투 구조다. 과거 Fable의 Strength / Skill / Will 개념을 계승하면서도 근접 공격, 원거리 무기, 마법을 상황에 따라 자연스럽게 전환한다.
 
 ### 근접 전투
 
@@ -128,7 +127,7 @@ Fable은 **2027년 2월 23일** 출시된다. Premium Edition은 **2월 18일**�
 
 ## Tomb Raider: Legacy of Atlantis — 원작 1편을 현대적으로 재구성
 
-**Tomb Raider: Legacy of Atlantis**도 Xbox 방송에서 긴 게임플레이를 공개했다.
+Tomb Raider: Legacy of Atlantis도 Xbox 방송에서 긴 게임플레이를 공개했다.
 
 이 작품은 1996년 첫 Tomb Raider를 그대로 복각하는 단순 리마스터가 아니라, Crystal Dynamics와 Flying Wild Hog가 현대적인 이동·전투·레벨 디자인으로 다시 만드는 재해석 작품이다.
 
@@ -154,32 +153,32 @@ Xbox 방송은 신작 발표뿐 아니라 이미 ONL에서 공개된 작품의 �
 | Gravhounds | 협동 액션과 빌드 시스템 추가 시연 |
 | Xbox Series X25 | Xbox 25주년 한정 콘솔·컨트롤러의 예약 판매 정보 공개 |
 
-Series X25 Limited Edition은 반투명 `OG Green` 디자인과 개별 일련번호 각인을 사용하며, **Halo: Campaign Evolved** 디지털 버전을 포함한다.
+Series X25 Limited Edition은 반투명 `OG Green` 디자인과 개별 일련번호 각인을 사용하며, Halo: Campaign Evolved 디지털 버전을 포함한다.
 
 - [Xbox Wire — Xbox @ gamescom 2026](https://news.xbox.com/en-us/2026/07/28/xbox-gamescom-2026/)
 - [Xbox Wire — Xbox 25th Anniversary Collection](https://news.xbox.com/en-us/2026/08/26/pre-orders-begin-today-xbox-25th-anniversary-collection/)
 
 ## Future Games Show — ONL 다음날에도 신작이 쏟아졌다
 
-Future Games Show at gamescom은 Resident Evil Requiem에서 Leon Kennedy를 맡은 **Nick Apostolides**와 Grace Ashcroft를 맡은 **Angela Sant'Albano**가 진행했다.
+Future Games Show at gamescom은 Resident Evil Requiem에서 Leon Kennedy를 맡은 Nick Apostolides와 Grace Ashcroft를 맡은 Angela Sant'Albano가 진행했다.
 
 GamesRadar의 공식 정리에 따르면 방송에는 **13개의 월드 프리미어 트레일러**가 포함됐다. 대형 퍼블리셔 발표보다는 중견·인디 프로젝트의 신작 공개와 출시일 확정 비중이 높았다.
 
 ### Wolcen 2 — 전작의 정식 후속작
 
-**Wolcen 2**가 월드 프리미어로 공개됐다.
+Wolcen 2가 월드 프리미어로 공개됐다.
 
 Wolcen Studios가 만든 다크 판타지 액션 RPG `Wolcen: Lords of Mayhem`의 정식 후속작이다. 구체적인 시스템은 아직 많이 공개되지 않았지만 **2027년 Early Access** 시작이 확정됐다.
 
 ### Greak 2: Alliance of the Storms
 
-**Greak 2: Alliance of the Storms**도 처음 공개됐다.
+Greak 2: Alliance of the Storms도 처음 공개됐다.
 
 전작의 손그림 스타일을 이어가면서 여러 차원을 오가는 협동 메트로배니아 구조를 내세운다. **2027년 PC와 콘솔** 출시 예정이다.
 
 ### PixelJunk Monsters 3
 
-Q-Games의 타워 디펜스 시리즈가 **PixelJunk Monsters 3**로 돌아온다.
+Q-Games의 타워 디펜스 시리즈가 PixelJunk Monsters 3로 돌아온다.
 
 정식 출시일은 아직 없지만 **9월 4일 비공개 Steam Playtest**가 예정돼 있다.
 
@@ -191,13 +190,13 @@ D&D 세계관을 사용하지만 전투 RPG가 아닌 **선술집 생활 시뮬�
 
 ### Escape from Playtime
 
-FGS 본편의 마지막 월드 프리미어는 **Escape from Playtime**이었다.
+FGS 본편의 마지막 월드 프리미어는 Escape from Playtime이었다.
 
 Poppy Playtime 세계관을 사용하는 **협동 생존 호러**로, 기존 싱글 플레이 중심 본편과 다른 방향의 프로젝트다. 출시 시기는 아직 구체적으로 확정되지 않았다.
 
 ## NO LAW — ONL보다 중요한 시스템 설명이 나왔다
 
-ONL에서 KRAFTON과 Neon Giant가 **NO LAW**의 신규 영상을 공개했지만, FGS에서는 게임의 구조를 훨씬 더 구체적으로 설명했다.
+ONL에서 KRAFTON과 Neon Giant가 NO LAW의 신규 영상을 공개했지만, FGS에서는 게임의 구조를 훨씬 더 구체적으로 설명했다.
 
 가장 독특한 부분은 **NPC의 죽음이 영구적**이라는 점이다.
 
@@ -272,17 +271,17 @@ The Ascent가 비교적 고정된 아이소메트릭 액션 RPG였다면 NO LAW�
 
 ## FGS Live From gamescom — 본편 직후 추가 발표
 
-Future Games Show가 끝난 직후에는 별도의 **FGS Live From gamescom**이 이어졌다. Nathan Byrne과 Jules Gill이 gamescom 현장에서 진행했고, 추가 월드 프리미어와 개발자 인터뷰가 나왔다.
+Future Games Show가 끝난 직후에는 별도의 FGS Live From gamescom이 이어졌다. Nathan Byrne과 Jules Gill이 gamescom 현장에서 진행했고, 추가 월드 프리미어와 개발자 인터뷰가 나왔다.
 
 ### Warhammer 40,000: Boltgun 2 — Mick Gordon 합류
 
-복고풍 FPS **Warhammer 40,000: Boltgun 2**는 새 트레일러와 함께 `DOOM`으로 유명한 작곡가 **Mick Gordon**과의 음악 협업을 발표했다.
+복고풍 FPS Warhammer 40,000: Boltgun 2는 새 트레일러와 함께 `DOOM`으로 유명한 작곡가 **Mick Gordon**과의 음악 협업을 발표했다.
 
 출시일은 **2026년 10월 14일**이다.
 
 ### Nivalis Nights — 9월 29일
 
-Cloudpunk 개발사 ION LANDS의 **Nivalis Nights**는 9월 29일 PC 출시를 확정했다.
+Cloudpunk 개발사 ION LANDS의 Nivalis Nights는 9월 29일 PC 출시를 확정했다.
 
 사이버펑크 도시에서 사업을 운영하고 사람들과 관계를 맺으며 살아가는 생활 시뮬레이션이다. 전작 Cloudpunk의 도시적 분위기를 액션보다 일상과 경영 쪽으로 확장한 프로젝트에 가깝다.
 
@@ -343,9 +342,7 @@ Future Games Show는 Wolcen 2, Greak 2, PixelJunk Monsters 3, Dungeons & Dragons
 
 Day 2에서는 Microsoft Flight Simulator 2024, Dragon's Dogma 2: Dark Arisen, Call of Duty: Modern Warfare 4, Turok: Origins, Stranger Than Heaven, Stuntman: Hollywood, Planet Zoo 2, Cassette Beasts 2002, Dune: Awakening, Armatus 등이 예고돼 있다.
 
----
-
-**참고 자료**
+## 참고 자료
 
 - [이전 글 — 게임스컴 2026 Opening Night Live 총정리](/2026/08/26/gamescom-onl-2026-summary/)
 - [GamesRadar — gamescom 2026 전체 방송 일정](https://www.gamesradar.com/games/events-conferences/gamescom-2026-schedule/)
