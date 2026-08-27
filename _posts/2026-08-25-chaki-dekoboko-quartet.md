@@ -1,10 +1,10 @@
 ---
 title: "CHAKI！는 어떻게 탄생했나 — いきづらい部！의 4인조와 『凸凹Quartet』"
+description: "『이키즈라이브』의 10인 그룹 いきづらい部！ 안에서 4인조 CHAKI！가 어떻게 만들어졌는지, 『凸凹Quartet』을 중심으로 정리했다."
 category: 서브컬처
-tags: [게임, 러브라이브, 이키즈라이브, 음악]
+tags: [러브라이브, 이키즈라이브, 음악]
 date: 2026-08-25 10:40:00 +0900
 ---
-
 `イキヅライブ！ LOVELIVE! BLUEBIRD`를 따라가다 보면 10인 그룹 `いきづらい部！` 안에서도 유독 눈에 띄는 4인조가 있다. 바로 **CHAKI！**다.
 
 멤버는 다음 네 명이다.
@@ -65,21 +65,13 @@ Apple Music과 Spotify의 일본 페이지에서는 `凸凹Quartet - Single`로 
 
 ## 4월 16일, 공식 리릭 비디오 공개
 
-음원 발매 약 한 달 뒤인 **2026년 4월 16일**, 이키즈라이브 공식 YouTube 채널에 「凸凹Quartet」 리릭 비디오가 공개됐다.
-
-영상 설명에서도 CHAKI！를 `いきづらい部！の歌ってみたユニット`라고 명확하게 소개한다.
-
-리릭 비디오 일러스트는 **はにろ**, 영상 제작은 THINGS.의 YANAGI., FUKUDA., Ko Sato가 담당했다.
+음원 발매 약 한 달 뒤인 **2026년 4월 16일**, 이키즈라이브 공식 YouTube 채널에 「凸凹Quartet」 리릭 비디오가 공개됐다. 영상 설명에서도 CHAKI！를 `いきづらい部！の歌ってみたユニット`라고 명확하게 소개한다. 리릭 비디오 일러스트는 **はにろ**, 영상 제작은 THINGS.의 YANAGI., FUKUDA., Ko Sato가 담당했다.
 
 재킷과 영상에서 네 명을 하나의 완벽히 통일된 디자인으로 묶기보다는, 강한 원색 배경과 서로 다른 포즈를 이용해 각자 다른 방향으로 튀어나가는 느낌을 강조한 것도 곡 제목과 잘 맞는다.
 
 ## 왜 이 네 명이 재미있는가
 
-CHAKI！의 재미는 네 명이 서로 닮아서가 아니라 **안 닮았다는 데 있다.**
-
-아이돌 유닛은 보통 비슷한 이미지나 음악적 콘셉트를 가진 멤버를 묶는 경우가 많다. 반면 CHAKI！는 처음부터 `凸凹`라는 말을 제목에 넣어 차이를 숨기지 않는다.
-
-서로 다른 말투와 분위기, 솔로 음악을 가진 네 명이 한 곡에서 동시에 움직이는 것 자체가 콘셉트다.
+CHAKI！의 재미는 네 명이 서로 닮아서가 아니라 **안 닮았다는 데 있다.** 아이돌 유닛은 보통 비슷한 이미지나 음악적 콘셉트를 가진 멤버를 묶는 경우가 많다. 반면 CHAKI！는 처음부터 `凸凹`라는 말을 제목에 넣어 차이를 숨기지 않는다. 서로 다른 말투와 분위기, 솔로 음악을 가진 네 명이 한 곡에서 동시에 움직이는 것 자체가 콘셉트다.
 
 이키즈라이브 전체도 일본 각지의 서로 다른 학생들이 인터넷 학교에 모인다는 설정을 갖고 있다. 그런 프로젝트 안에서 CHAKI！는 가장 작은 단위로 그 주제를 보여주는 유닛이라고 볼 수도 있다.
 
@@ -93,12 +85,12 @@ CHAKI！는 오랜 역사를 가진 라브라이브의 기존 유닛들과 비�
 
 개인적으로는 10인 전체곡보다 이런 작은 조합에서 캐릭터 관계가 더 선명하게 보이는 경우가 많아서, 앞으로 CHAKI！가 얼마나 더 확장될지 궁금하다.
 
----
-
-**참고 자료 (일본어)**
+## 참고 자료 — 일본어 자료
 - [CHAKI！ from いきづらい部！「凸凹Quartet」リリックビデオ - 公式YouTube](https://www.youtube.com/watch?v=hymh68WOWbo)
 - [いきづらい部！ 1st LIVE ～ What is my L ? ～ ライブレポート - PYLON PORT](https://pylonport.bandainamcomusiclive.co.jp/report/538)
 - [『イキヅライブ！ LOVELIVE! BLUEBIRD』1st LIVE 관련 공식 뉴스 - PYLON PORT](https://pylonport.bandainamcomusiclive.co.jp/news/537)
 - [Apple Music - 凸凹Quartet](https://music.apple.com/jp/song/1876765091)
 - [Apple Music - 凸凹Quartet - Single](https://music.apple.com/jp/album/1876765090)
 - [Spotify - 凸凹Quartet](https://open.spotify.com/intl-ja/album/2L32eZFHSJo6L4xJFM7Ej1)
+
+**작성 기준: 2026-08-25 KST**

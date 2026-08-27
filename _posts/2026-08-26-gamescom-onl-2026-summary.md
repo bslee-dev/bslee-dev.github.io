@@ -1,10 +1,10 @@
 ---
 title: "게임스컴 2026 Opening Night Live 총정리 — 발표작, 출시일, 공식 트레일러"
+description: "70편 이상이 등장한 게임스컴 2026 Opening Night Live를, 감상 대신 실제 발표작과 확정된 출시일 중심으로 정리했다."
 category: 게임뉴스
-tags: [게임, 게임스컴, gamescom, ONL, 게임뉴스]
+tags: [게임스컴, ONL]
 date: 2026-08-26 14:51:00 +0900
 ---
-
 2026년 `gamescom Opening Night Live`, 이하 **ONL 2026**이 끝났다.
 
 ONL은 gamescom 본 행사 개막 하루 전에 열리는 공식 쇼케이스다. 올해는 독일 쾰른 현지 시간 **8월 25일 오후 8시(CEST)**, 한국 시간으로는 **8월 26일 오전 3시(KST)**에 시작했다. 본편에 앞서 약 30분의 프리쇼가 진행됐고, 본편은 약 2시간 동안 이어졌다.
@@ -191,11 +191,7 @@ Invoke Studios의 **Warlock: Dungeons & Dragons**는 8분 이상의 게임플레
 
 ## Final Fantasy VII Revelation — Weapon 전투 공개
 
-Square Enix는 Final Fantasy VII Remake 3부작의 마지막 작품 **Final Fantasy VII Revelation**의 새로운 트레일러를 공개했다.
-
-이번 영상의 핵심은 원작 후반부의 `Weapon`들이다.
-
-확인된 요소에는 다음이 포함된다.
+Square Enix는 Final Fantasy VII Remake 3부작의 마지막 작품 **Final Fantasy VII Revelation**의 새로운 트레일러를 공개했다. 이번 영상의 핵심은 원작 후반부의 `Weapon`들이다. 확인된 요소에는 다음이 포함된다.
 
 - Ruby Weapon
 - Emerald Weapon
@@ -213,11 +209,7 @@ Square Enix는 이미 2026년 6월 작품을 발표하면서 **2027년 봄** 출
 
 ## The Witcher 3: Wild Hunt — Remastered
 
-ONL 막바지에는 CD PROJEKT RED가 **The Witcher 3: Wild Hunt — Remastered**를 발표했다.
-
-출시일은 **2026년 9월 29일**이다.
-
-공식 발표에 따르면 Remastered에는 단순 해상도 향상을 넘어 다음과 같은 변화가 포함된다.
+ONL 막바지에는 CD PROJEKT RED가 **The Witcher 3: Wild Hunt — Remastered**를 발표했다. 출시일은 **2026년 9월 29일**이다. 공식 발표에 따르면 Remastered에는 단순 해상도 향상을 넘어 다음과 같은 변화가 포함된다.
 
 - 비주얼 및 성능 개선
 - 전투 개선
@@ -242,11 +234,7 @@ PC, PS5, Xbox Series X|S의 조건을 충족하는 기존 보유자는 무료 �
 
 ## The Witcher 3: Wild Hunt — Songs of the Past
 
-The Witcher 3의 새로운 유료 확장팩 **Songs of the Past**도 공개됐다.
-
-Geralt가 다시 주인공으로 등장하며 새로운 지역 **Letten**으로 향한다. 표면적으로는 평화로운 전통과 축제의 땅이지만 그 아래 숨겨진 비밀을 다루는 내용이다.
-
-현재 공식적으로 확인된 주요 요소는 다음과 같다.
+The Witcher 3의 새로운 유료 확장팩 **Songs of the Past**도 공개됐다. Geralt가 다시 주인공으로 등장하며 새로운 지역 **Letten**으로 향한다. 표면적으로는 평화로운 전통과 축제의 땅이지만 그 아래 숨겨진 비밀을 다루는 내용이다. 현재 공식적으로 확인된 주요 요소는 다음과 같다.
 
 - 신규 지역 Letten
 - 새로운 퀘스트와 캐릭터
@@ -468,7 +456,7 @@ Game Informer 집계 기준 원작의 두 확장팩도 포함될 예정이다. �
 - Crimson Desert Enhanced
 - Hitman: World of Assassination — The Herbalist
 
-## 마무리
+## ONL은 아직 예고편이다
 
 ONL은 gamescom 2026 전체 일정의 시작에 불과하다.
 
@@ -476,11 +464,9 @@ ONL은 gamescom 2026 전체 일정의 시작에 불과하다.
 
 특히 The Witcher 3: Songs of the Past와 Remastered는 gamescom 현장에서 별도 프레젠테이션이 예정돼 있고, KRAFTON 역시 ONL에 등장한 신작들을 행사 기간에 계속 소개한다.
 
-이 글은 **2026년 8월 26일 오후 기준 발표 정보**를 기록한 것이며, 이후 gamescom 기간 중 추가로 확정되는 세부 플랫폼·테스트 일정·출시 일정은 별도의 후속 정리가 필요하다.
+이 글은 **2026년 8월 26일 오후 기준 발표 정보**를 기록한 것이다. 이후 밤사이 이어진 Xbox @ gamescom Day 1과 Future Games Show는 [게임스컴 2026 Day 1 총정리](/2026/08/27/gamescom-2026-day1-xbox-future-games-show/)에서 이어서 정리했다.
 
----
-
-**참고 자료**
+## 참고 자료
 
 - [gamescom — Opening Night Live](https://www.gamescom.global/en/program/onl)
 - [gamescom Opening Night Live 2026 공식 전체 방송](https://www.youtube.com/watch?v=Zzvzt3IjNik)

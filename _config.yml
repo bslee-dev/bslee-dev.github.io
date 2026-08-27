@@ -6,12 +6,17 @@ baseurl: ""
 url: "https://bslee-dev.github.io"
 
 lang: ko
+# 이 설정이 없으면 Jekyll이 UTC로 날짜를 계산해서
+# 오전 9시 이전에 쓴 글의 URL 날짜가 하루 앞당겨진다.
+timezone: Asia/Seoul
 
 # /categories/ 페이지에 표시할 카테고리와 그 순서.
 # 새 카테고리를 쓰게 되면 여기에도 추가한다.
 category_list:
   - 게임역사
+  - 게임뉴스
   - 캐릭터평전
+  - 인물
   - 서브컬처
 
 permalink: /:year/:month/:day/:title/

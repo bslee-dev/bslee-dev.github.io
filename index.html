@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<h1 class="sr-only">{{ site.title }}</h1>
 <div class="post-list">
   {% for post in site.posts %}
   <article class="post-item">
@@ -11,7 +12,8 @@ layout: default
       {% endif %}
     </div>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {% if post.excerpt %}<p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>{% endif %}
+    {% assign blurb = post.description | default: post.excerpt %}
+    {% if blurb %}<p>{{ blurb | strip_html | truncatewords: 40 }}</p>{% endif %}
     {% if post.tags.size > 0 %}
     <div class="post-tags">
       {% for tag in post.tags %}<a class="tag" href="{{ '/tags/' | relative_url }}#{{ tag | slugify: 'raw' }}">#{{ tag }}</a>{% endfor %}

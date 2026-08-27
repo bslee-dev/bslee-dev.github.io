@@ -3,8 +3,21 @@ layout: page
 title: Categories
 permalink: /categories/
 ---
+{%- comment -%}
+  site.category_list가 표시 순서를 정한다.
+  목록에 없는 카테고리도 누락되지 않도록 뒤에 이어서 출력한다.
+{%- endcomment -%}
+{% assign known = site.category_list | join: '|' %}
+{% assign extra = '' | split: '' %}
+{% for pair in site.categories %}
+  {% assign name = pair[0] %}
+  {% unless known contains name %}
+    {% assign extra = extra | push: name %}
+  {% endunless %}
+{% endfor %}
+{% assign ordered = site.category_list | concat: extra %}
 <div class="taxonomy-index">
-  {% for cat_name in site.category_list %}
+  {% for cat_name in ordered %}
     {% assign cat_posts = site.categories[cat_name] | sort: 'date' | reverse %}
     {% if cat_posts.size > 0 %}
     <section class="taxonomy-group" id="{{ cat_name | slugify: 'raw' }}">
