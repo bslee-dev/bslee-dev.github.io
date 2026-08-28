@@ -10,7 +10,7 @@ permalink: /series/
   시리즈는 태그로 모은다. 새 시리즈를 만들 때는 아래 목록에
   [표시 이름, 모을 태그] 한 쌍을 추가하고 글에 그 태그를 붙이면 된다.
 {% endcomment %}
-{% assign series_defs = "1990년대 연애·육성 시뮬레이션|연애시뮬레이션,아이돌마스터의 역사|아이돌마스터,코에이 삼국지|삼국지,일본 PC의 시대|일본PC" | split: "," %}
+{% assign series_defs = "1990년대 연애·육성 시뮬레이션|연애시뮬레이션,아이돌마스터의 역사|아이돌마스터,코에이 삼국지|삼국지,코에이 대항해시대|대항해시대,일본 PC의 시대|일본PC" | split: "," %}
 
 {% for def in series_defs %}
   {% assign parts = def | split: "|" %}
