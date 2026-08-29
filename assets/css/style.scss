@@ -211,6 +211,15 @@ main.wrap { padding-top: 2.5rem; padding-bottom: 4rem; min-height: 60vh; }
 .post-content li,
 .post-content a,
 .post-content code { overflow-wrap: anywhere; }
+
+/* 제목에 'A·B·C'처럼 공백 없이 이어진 원어가 들어가면 좁은 화면에서 넘친다.
+   한국어는 원래 어디서든 줄바꿈되므로 이 규칙이 국문 제목을 해치지 않는다. */
+.post-header h1,
+.post-item h2,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.taxonomy-post-list li > a { overflow-wrap: anywhere; }
 .post-content ul,
 .post-content ol { margin: 0 0 1.15rem; padding-left: 1.3rem; }
 .post-content li { margin-bottom: 0.35rem; }
