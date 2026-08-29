@@ -11,9 +11,9 @@ date: 2026-08-28 13:47:00 +0900
 
 첫날처럼 이미 ONL에서 본 내용을 다시 늘어놓기보다, **새 신작·출시일·Game Pass·플랫폼 확정과 새 게임플레이 정보**를 우선했다.
 
-- Xbox @ gamescom Day 2: **8월 27일 16:00 CEST / 8월 27일 23:00 KST**
-- gamescom awesome indies 2026: **8월 27일 20:00 CEST / 8월 28일 03:00 KST**
-- 이 글의 작성 기준: **2026년 8월 28일 13:47 KST**
+- Xbox @ gamescom Day 2: 8월 27일 16:00 CEST / 8월 27일 23:00 KST
+- gamescom awesome indies 2026: 8월 27일 20:00 CEST / 8월 28일 03:00 KST
+- 이 글의 작성 기준: 2026년 8월 28일 13:47 KST
 
 오늘 저녁 열리는 gamescom award 결과와 8월 30일의 FGS Best of gamescom은 아직 진행 전이므로 이번 글에는 포함하지 않았다.
 
@@ -23,18 +23,18 @@ date: 2026-08-28 13:47:00 +0900
 
 | 구분 | 핵심 내용 |
 |---|---|
-| Xbox 신규 공개 | **Rogue Fortune** 첫 공개. 2027년 PS5 / Xbox Series / Switch 2 / PC |
+| Xbox 신규 공개 | Rogue Fortune 첫 공개. 2027년 PS5 / Xbox Series / Switch 2 / PC |
 | Militsioner | 거대한 경찰관에게 감시받는 초현실 immersive sim, 2027년·Game Pass |
-| Armatus | Godfall 개발사 Counterplay Games의 로그라이트 TPS, **2027-01-07** |
+| Armatus | Godfall 개발사 Counterplay Games의 로그라이트 TPS, 2027-01-07 |
 | Holstin | 1990년대 폴란드 배경 심리 생존 호러, 2027년·Game Pass |
-| Son of Thanjai | 11세기 남인도 촐라 왕조 배경 액션 어드벤처, **2027년 봄** |
-| Deep Dish Dungeon | 1~3인 던전 탐험·제작 게임, **2026-10-13**·Game Pass |
-| The Séance of Blake Manor | 초자연 탐정 미스터리 Xbox판, **2026-10-27**·Game Pass |
-| DayZ: Badlands | 사막 지역 Nasdara를 다루는 확장, **2026-10-15** |
-| Cassette Beasts 2002 | 새 캐릭터·성우진과 함께 **2027년 3월** 출시 시기 확정 |
+| Son of Thanjai | 11세기 남인도 촐라 왕조 배경 액션 어드벤처, 2027년 봄 |
+| Deep Dish Dungeon | 1~3인 던전 탐험·제작 게임, 2026-10-13·Game Pass |
+| The Séance of Blake Manor | 초자연 탐정 미스터리 Xbox판, 2026-10-27·Game Pass |
+| DayZ: Badlands | 사막 지역 Nasdara를 다루는 확장, 2026-10-15 |
+| Cassette Beasts 2002 | 새 캐릭터·성우진과 함께 2027년 3월 출시 시기 확정 |
 | Dune: Awakening | Filmic Archive DLC와 콘솔판 9월 22일, 출시 후 크로스플레이 계획 확인 |
-| Alien Deathstorm | Rebellion의 SF 액션 호러, **2027년 봄**·Game Pass |
-| Awesome Indies | 약 60~75분 동안 진행, 행사 정리 기준 **34개 작품** 등장 |
+| Alien Deathstorm | Rebellion의 SF 액션 호러, 2027년 봄·Game Pass |
+| Awesome Indies | 약 60~75분 동안 진행, 행사 정리 기준 34개 작품 등장 |
 
 ## 새로 확정되거나 다시 못박힌 주요 일정
 
@@ -62,7 +62,7 @@ date: 2026-08-28 13:47:00 +0900
 
 ## Rogue Fortune — 유물을 맞춰 빌드를 만드는 새 로그라이트
 
-Xbox Day 2에서 완전히 처음 모습을 드러낸 작품 중 가장 눈에 띄는 것은 **Rogue Fortune**이었다.
+Xbox Day 2에서 완전히 처음 모습을 드러낸 작품 중 가장 눈에 띄는 것은 Rogue Fortune이었다.
 
 Glowmade가 개발·퍼블리싱하는 싱글 플레이 로그라이트 액션 게임으로, 플레이어는 `Well of Eternal Riches`라는 저주받은 장소에 들어가 괴물을 상대하고 보물을 모은 뒤 살아서 빠져나와야 한다.
 
@@ -79,9 +79,9 @@ Day 1의 Xbox 신작이 Dumpster Gang이나 Terrible Lizards처럼 협동·기�
 
 ## Militsioner — 도시 전체를 내려다보는 거대한 경찰관
 
-**Militsioner**는 이번 Xbox 2일차에서 가장 설명하기 어려운 게임이면서, 반대로 영상 한 번만 보면 가장 쉽게 기억되는 게임이다.
+Militsioner는 이번 Xbox 2일차에서 가장 설명하기 어려운 게임이면서, 반대로 영상 한 번만 보면 가장 쉽게 기억되는 게임이다.
 
-플레이어는 별다른 잘못을 한 기억도 없는데 체포되고, 재판에서 빠져나갈 가능성도 없는 상태로 기묘한 도시를 탈출해야 한다. 문제는 도시 위에 **거대한 경찰관**이 존재하며 플레이어의 행동을 계속 지켜본다는 것이다.
+플레이어는 별다른 잘못을 한 기억도 없는데 체포되고, 재판에서 빠져나갈 가능성도 없는 상태로 기묘한 도시를 탈출해야 한다. 문제는 도시 위에 거대한 경찰관이 존재하며 플레이어의 행동을 계속 지켜본다는 것이다.
 
 개발사는 이를 immersive sim으로 설명한다. 훔치거나 침입할 수도 있고, 주민을 도울 수도 있으며, 거대한 경찰관을 속이거나 비위를 맞추거나 심지어 호감을 사는 방향도 가능하다. Xbox Wire는 꽃을 준비해 그와 데이트를 시도하는 선택까지 직접 예로 들었다.
 
@@ -94,7 +94,7 @@ Day 1의 Xbox 신작이 Dumpster Gang이나 Terrible Lizards처럼 협동·기�
 
 ## Armatus — 악마에게 점령된 파리에서 죽고 다시 싸운다
 
-**Armatus**는 이번 방송에서 출시일을 **2027년 1월 7일**로 확정했다.
+Armatus는 이번 방송에서 출시일을 2027년 1월 7일로 확정했다.
 
 개발사는 Godfall을 만든 Counterplay Games다. 악마에게 점령된 파리의 폐허를 배경으로, 오래된 조직의 마지막 초자연 전사가 `Sunless Gate`라는 천국으로 향하는 잃어버린 통로를 찾는다.
 
@@ -108,7 +108,7 @@ Day 1의 Xbox 신작이 Dumpster Gang이나 Terrible Lizards처럼 협동·기�
 
 ## Holstin — 픽셀 아트인데 카메라가 계속 바뀌는 1990년대 폴란드 호러
 
-**Holstin**은 오랫동안 개발 상황을 지켜본 사람이 많은 작품인데, 이번 gamescom에서 **2027년 출시와 Game Pass 합류**가 확정됐다.
+Holstin은 오랫동안 개발 상황을 지켜본 사람이 많은 작품인데, 이번 gamescom에서 2027년 출시와 Game Pass 합류가 확정됐다.
 
 배경은 1990년대 폴란드의 작은 마을 `Jeziorne-Kolonia`. 심리 생존 호러라는 장르 자체보다 눈에 띄는 것은 Sonka가 자체 개발한 `2XD Rendering`이다.
 
@@ -122,7 +122,7 @@ Day 1의 Xbox 신작이 Dumpster Gang이나 Terrible Lizards처럼 협동·기�
 
 ## Son of Thanjai — 11세기 남인도 촐라 왕조를 게임의 중심 무대로
 
-Ayelet Studio의 **Son of Thanjai**는 **2027년 봄** 출시를 발표했다.
+Ayelet Studio의 Son of Thanjai는 2027년 봄 출시를 발표했다.
 
 배경은 11세기 남인도다. 플레이어는 촐라 왕조의 왕이 되어 유산과 왕권의 부담을 짊어지고, 불안해진 탄자부르와 왕좌를 둘러싼 음모를 마주한다.
 
@@ -135,11 +135,7 @@ Ayelet Studio의 **Son of Thanjai**는 **2027년 봄** 출시를 발표했다.
 
 ## Deep Dish Dungeon — 던전에서 싸우고, 캠프에서는 요리한다
 
-Behold Studios의 **Deep Dish Dungeon**은 Xbox 방송에서 **10월 13일** 출시를 확정했다.
-
-혼자 또는 최대 두 명의 친구와 함께 던전의 복도와 방을 탐험하고, 자원을 모아 캠프를 강화한다. 수집한 재료로 도구를 만들고 음식을 요리해 다음 탐험을 준비하는 구조다.
-
-전투만 반복하는 던전 크롤러보다는 탐험과 채집, 제작, 캠프 관리가 한 사이클로 묶여 있다.
+Behold Studios의 Deep Dish Dungeon은 Xbox 방송에서 10월 13일 출시를 확정했다. 혼자 또는 최대 두 명의 친구와 함께 던전의 복도와 방을 탐험하고, 자원을 모아 캠프를 강화한다. 수집한 재료로 도구를 만들고 음식을 요리해 다음 탐험을 준비하는 구조다. 전투만 반복하는 던전 크롤러보다는 탐험과 채집, 제작, 캠프 관리가 한 사이클로 묶여 있다.
 
 - 출시: 2026-10-13
 - Xbox Series X\|S / Xbox PC / Cloud / Steam
@@ -149,7 +145,7 @@ Behold Studios의 **Deep Dish Dungeon**은 Xbox 방송에서 **10월 13일** 출
 
 ## The Séance of Blake Manor — 1897년 아일랜드의 초자연 탐정극
 
-**The Séance of Blake Manor**는 10월 27일 Xbox Series X|S와 Xbox PC로 나온다. Game Pass에도 같은 날 들어간다.
+The Séance of Blake Manor는 10월 27일 Xbox Series X|S와 Xbox PC로 나온다. Game Pass에도 같은 날 들어간다.
 
 배경은 1897년 아일랜드. 사립탐정 Declan Ward가 외딴 호텔에서 사라진 여성을 조사하러 갔다가, 세계 각지에서 모여든 신비주의자와 대규모 séance를 마주한다.
 
@@ -162,22 +158,14 @@ Behold Studios의 **Deep Dish Dungeon**은 Xbox 방송에서 **10월 13일** 출
 
 ## DayZ: Badlands — 눈과 숲 대신 뜨거운 Nasdara
 
-**DayZ: Badlands**는 gamescom 티저와 함께 **2026년 10월 15일** 출시일을 발표했다.
-
-새 지역 `Nasdara`는 갈라진 땅과 모래가 이어지는 건조한 사막 지대다. 감염 사태 이전부터 끝없는 전쟁으로 황폐해진 지역이라는 설정도 공개됐다.
-
-DayZ가 오랫동안 차갑고 습한 숲과 동유럽 풍경으로 기억된 게임인 만큼, 이번 확장은 시각적으로도 분위기가 상당히 다르다.
+DayZ: Badlands는 gamescom 티저와 함께 2026년 10월 15일 출시일을 발표했다. 새 지역 `Nasdara`는 갈라진 땅과 모래가 이어지는 건조한 사막 지대다. 감염 사태 이전부터 끝없는 전쟁으로 황폐해진 지역이라는 설정도 공개됐다. DayZ가 오랫동안 차갑고 습한 숲과 동유럽 풍경으로 기억된 게임인 만큼, 이번 확장은 시각적으로도 분위기가 상당히 다르다.
 
 - 출시: 2026-10-15
 - gamescom에서 Badlands 티저 공개
 
 ## Cassette Beasts 2002 — 2027년 3월로 출시 시기 확정
 
-**Cassette Beasts 2002**는 이미 지난 6월 발표된 작품이지만, 이번 gamescom에서 처음으로 출시 시기를 **2027년 3월**로 좁혔다.
-
-전작의 세계관을 잇는 몬스터 수집 RPG로, 제목처럼 2002년 런던이 무대다. 250종 이상의 생물을 녹음하고 전투에서 변신·융합하는 구조를 이어간다.
-
-새 gamescom 트레일러에서는 신규 캐릭터와 성우진, 개편된 UI도 함께 소개됐다.
+Cassette Beasts 2002는 이미 지난 6월 발표된 작품이지만, 이번 gamescom에서 처음으로 출시 시기를 2027년 3월로 좁혔다. 전작의 세계관을 잇는 몬스터 수집 RPG로, 제목처럼 2002년 런던이 무대다. 250종 이상의 생물을 녹음하고 전투에서 변신·융합하는 구조를 이어간다. 새 gamescom 트레일러에서는 신규 캐릭터와 성우진, 개편된 UI도 함께 소개됐다.
 
 - 개발: Bytten Studio
 - 퍼블리셔: Raw Fury
@@ -186,9 +174,9 @@ DayZ가 오랫동안 차갑고 습한 숲과 동유럽 풍경으로 기억된 �
 
 ## Dune: Awakening — 9월 22일이 사실상 두 번째 출발점
 
-**Dune: Awakening**은 Day 2 Xbox 방송에 맞춰 `Filmic Archive` DLC를 공개했다.
+Dune: Awakening은 Day 2 Xbox 방송에 맞춰 `Filmic Archive` DLC를 공개했다.
 
-Denis Villeneuve의 영화 Dune Part One과 Part Two에서 영감을 받은 의상과 건축물이 포함되며, Sardaukar 스타일의 73개 건축 세트도 들어간다. DLC는 **9월 22일** 출시된다.
+Denis Villeneuve의 영화 Dune Part One과 Part Two에서 영감을 받은 의상과 건축물이 포함되며, Sardaukar 스타일의 73개 건축 세트도 들어간다. DLC는 9월 22일 출시된다.
 
 더 중요한 것은 같은 날 게임 자체가 PS5와 Xbox로 확대된다는 점이다. 콘솔판에는 완전한 싱글 플레이 모드와 그동안 PC판에 추가된 콘텐츠가 함께 들어가며, Xbox Game Pass에도 9월 22일 합류한다.
 
@@ -204,9 +192,9 @@ Denis Villeneuve의 영화 Dune Part One과 Part Two에서 영감을 받은 의�
 
 ## Stranger Than Heaven — 날짜보다 다섯 시대를 연결하는 방식이 더 중요했다
 
-RGG Studio의 **Stranger Than Heaven**은 이번 방송에서 다시 길게 다뤄졌다.
+RGG Studio의 Stranger Than Heaven은 이번 방송에서 다시 길게 다뤄졌다.
 
-다만 **2027년 1월 15일 출시와 Game Pass**는 이번 gamescom에서 처음 나온 정보가 아니다. 이미 6월에 공개돼 있었다. 이번 Day 2의 의미는 출시일 재발표보다 실제 게임 구조를 더 오래 확인했다는 데 있다.
+다만 2027년 1월 15일 출시와 Game Pass는 이번 gamescom에서 처음 나온 정보가 아니다. 이미 6월에 공개돼 있었다. 이번 Day 2의 의미는 출시일 재발표보다 실제 게임 구조를 더 오래 확인했다는 데 있다.
 
 이 작품은 1915년 고쿠라, 1929년 구레, 1943년 오사카 미나미, 1951년 아타미, 1965년 신주쿠까지 **다섯 시대와 다섯 도시**를 오가는 50년짜리 이야기다.
 
@@ -219,7 +207,7 @@ RGG Studio의 **Stranger Than Heaven**은 이번 방송에서 다시 길게 다�
 
 ## Dragon's Dogma 2: Dark Arisen — Norgan은 단순한 새 던전이 아니다
 
-Capcom의 **Dragon's Dogma 2: Dark Arisen**도 gamescom 현장에서 실제 플레이가 공개됐다.
+Capcom의 Dragon's Dogma 2: Dark Arisen도 gamescom 현장에서 실제 플레이가 공개됐다.
 
 확장팩의 중심은 북쪽의 새 지역 `Norgan`이다. 원작 Dragon's Dogma의 Dark Arisen이 Bitterblack Isle이라는 압축된 던전 경험으로 기억됐다면, 이번 작품은 더 넓은 지역을 탐험하면서 예측하기 어려운 전투를 만드는 쪽에 가깝다.
 
@@ -232,7 +220,7 @@ Capcom의 **Dragon's Dogma 2: Dark Arisen**도 gamescom 현장에서 실제 플�
 
 ## Alien Deathstorm — Rebellion이 만든 "슈퍼 솔저가 아닌" SF FPS
 
-Rebellion은 gamescom에서 **Alien Deathstorm**의 새 트레일러와 함께 **2027년 봄** 출시를 발표했다.
+Rebellion은 gamescom에서 Alien Deathstorm의 새 트레일러와 함께 2027년 봄 출시를 발표했다.
 
 플레이어는 외계 식민지에 파견된 엔지니어다. 구조 임무로 도착했지만 행성은 거대한 폭풍으로 무너지고 있고, 외계 생물까지 식민지를 장악한 상태다.
 
@@ -268,13 +256,13 @@ Xbox Day 1이 Fable·Tomb Raider의 긴 시연과 Disc-to-Digital이라는 플�
 
 Xbox 방송이 끝난 뒤 한국 시간 오전 3시에는 **gamescom awesome indies 2026**이 이어졌다.
 
-gamescom 공식 설명에 따르면 IGN이 제작한 약 60~75분짜리 쇼로, 세계 각지의 독립 개발팀과 특이한 아이디어를 소개하는 것이 목적이다. 행사 정리 페이지 기준으로 이번 방송에는 **34개 작품**이 등장했다.
+gamescom 공식 설명에 따르면 IGN이 제작한 약 60~75분짜리 쇼로, 세계 각지의 독립 개발팀과 특이한 아이디어를 소개하는 것이 목적이다. 행사 정리 페이지 기준으로 이번 방송에는 34개 작품이 등장했다.
 
 대형 신작의 출시일을 기다리는 쇼라기보다, 평소라면 Steam 추천 목록을 한참 내려야 발견할 게임을 빠르게 훑는 방송에 가깝다.
 
 ### Glasshouse — 봉쇄된 아파트를 무대로 한 feudalpunk CRPG
 
-**Glasshouse**는 이번 Awesome Indies에서 새 게임플레이 트레일러를 공개했고, **공식 데모를 2026년 10월에 배포**한다고 발표했다.
+Glasshouse는 이번 Awesome Indies에서 새 게임플레이 트레일러를 공개했고, 공식 데모를 2026년 10월에 배포한다고 발표했다.
 
 세계대전이 시작되는 시기의 봉쇄된 아파트 단지를 무대로 한 CRPG로, 개발팀은 장르를 `feudalpunk`라고 부른다. 턴제 전투와 대화, 인벤토리, 선택에 따른 결말을 중심으로 한다.
 
@@ -282,27 +270,19 @@ gamescom 공식 설명에 따르면 IGN이 제작한 약 60~75분짜리 쇼로, 
 
 ### Usual June — 현장 데모를 집에서도 바로 플레이
 
-Finji의 **Usual June**은 gamescom용 새 데모를 현장에만 묶어두지 않고 Steam에도 공개했다.
-
-June, Sunny, Max, Frankie가 영묘에 갇힌 상황을 다루며, 유령 Frankie와의 대화, 빠른 전투, 새 던전과 스토리 일부를 체험할 수 있다.
-
-행사장에서만 볼 수 있는 시연을 나중에 영상으로 확인하는 방식이 아니라, 쇼가 진행되는 동안 일반 이용자도 같은 데모에 바로 접근할 수 있게 한 사례다.
+Finji의 Usual June은 gamescom용 새 데모를 현장에만 묶어두지 않고 Steam에도 공개했다. June, Sunny, Max, Frankie가 영묘에 갇힌 상황을 다루며, 유령 Frankie와의 대화, 빠른 전투, 새 던전과 스토리 일부를 체험할 수 있다. 행사장에서만 볼 수 있는 시연을 나중에 영상으로 확인하는 방식이 아니라, 쇼가 진행되는 동안 일반 이용자도 같은 데모에 바로 접근할 수 있게 한 사례다.
 
 ### Chronoscript: The Endless End — 원고지 안으로 들어가는 탐험 액션
 
-Shueisha Games와 DeskWorks의 **Chronoscript: The Endless End**도 Awesome Indies에 등장했다.
+Shueisha Games와 DeskWorks의 Chronoscript: The Endless End도 Awesome Indies에 등장했다.
 
 3D로 표현된 현실과 펜으로 그린 듯한 2D 원고 세계를 오가는 탐험형 액션 어드벤처다. 주인공은 편집자 Frederick G. Muller이며, 천 년에 걸쳐 원고를 써 온 수수께끼의 작가 Viola S. Chambers와 얽힌다.
 
-출시 시기는 이미 지난 6월 **2026년 가을**로 발표됐다. 3D 캐릭터 디자인은 시마자키 마리, 음악에는 미츠다 야스노리와 Procyon Studio 멤버들이 참여한다.
+출시 시기는 이미 지난 6월 2026년 가을로 발표됐다. 3D 캐릭터 디자인은 시마자키 마리, 음악에는 미츠다 야스노리와 Procyon Studio 멤버들이 참여한다.
 
 ### There Are No Ghosts at the Grand — 낮에는 호텔 수리, 밤에는 유령 퇴치
 
-**There Are No Ghosts at the Grand**는 낡은 영국 호텔을 물려받은 주인공이 30일 동안 건물을 복구하는 게임이다.
-
-낮에는 샌드블라스터, 페인트 분사기, 가구 발사기 같은 말하는 도구로 호텔을 고친다. 그런데 밤이 되면 같은 도구가 초자연적인 존재와 싸우는 무기가 된다.
-
-Steam은 현재 출시 시기를 **2026년 4분기**로 표시하고 있다. 코미디와 호러, 뮤지컬 미스터리를 한 게임에 섞은 특이한 작품이다.
+There Are No Ghosts at the Grand는 낡은 영국 호텔을 물려받은 주인공이 30일 동안 건물을 복구하는 게임이다. 낮에는 샌드블라스터, 페인트 분사기, 가구 발사기 같은 말하는 도구로 호텔을 고친다. 그런데 밤이 되면 같은 도구가 초자연적인 존재와 싸우는 무기가 된다. Steam은 현재 출시 시기를 2026년 4분기로 표시하고 있다. 코미디와 호러, 뮤지컬 미스터리를 한 게임에 섞은 특이한 작품이다.
 
 ## Awesome Indies 전체 등장작
 
@@ -340,7 +320,7 @@ Day 2는 그보다 덜 화려하다. 대신 실제로 구매하거나 Game Pass�
 
 Armatus, Deep Dish Dungeon, DayZ: Badlands, The Séance of Blake Manor가 날짜를 얻었고, Militsioner, Holstin, Son of Thanjai, Alien Deathstorm에는 2027년 출시 창과 Game Pass가 붙었다. Cassette Beasts 2002도 3월로 범위를 좁혔다.
 
-내가 이번 둘째 날을 한 문장으로 정리한다면 **"신작 발표의 날이라기보다 2026년 가을과 2027년 일정표가 채워진 날"**에 가깝다.
+내가 이번 둘째 날을 한 문장으로 정리한다면 "신작 발표의 날이라기보다 2026년 가을과 2027년 일정표가 채워진 날"에 가깝다.
 
 그리고 Awesome Indies까지 포함하면 또 하나가 보인다. ONL의 몇 분짜리 대작 트레일러 뒤에 가려져 있던, 아주 작은 팀의 게임을 발견하는 것이 본행사 gamescom의 다른 절반이라는 점이다.
 
@@ -348,11 +328,11 @@ Armatus, Deep Dish Dungeon, DayZ: Badlands, The Séance of Blake Manor가 날짜
 
 gamescom 2026은 아직 끝나지 않았다.
 
-이 글 작성 시점인 **8월 28일 13:47 KST** 이후 남은 큰 방송은 다음과 같다.
+이 글 작성 시점인 8월 28일 13:47 KST 이후 남은 큰 방송은 다음과 같다.
 
-- gamescom award 2026: **8월 28일 13:00 CEST / 8월 28일 20:00 KST**
-- FGS Best of gamescom: **8월 30일 19:00 CEST / 8월 31일 02:00 KST**
-- gamescom 2026 본 행사 종료: **8월 30일 CEST**
+- gamescom award 2026: 8월 28일 13:00 CEST / 8월 28일 20:00 KST
+- FGS Best of gamescom: 8월 30일 19:00 CEST / 8월 31일 02:00 KST
+- gamescom 2026 본 행사 종료: 8월 30일 CEST
 
 오늘 저녁 award에서는 gamescom 출품작 가운데 부문별 수상작이 발표된다. FGS Best of gamescom은 마지막 날 쇼 플로어 데모와 인터뷰, 이번 주 주요 발표를 다시 훑는 마무리 방송이다.
 
