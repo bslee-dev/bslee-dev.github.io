@@ -2,7 +2,7 @@
 title: "게임스컴 2026 Day 2 총정리 — Xbox 2일차·Awesome Indies·밤사이 추가 발표"
 description: "게임스컴 2026 본행사 2일차. Xbox @ gamescom Day 2와 Awesome Indies를 중심으로 새로 확정된 출시일, Game Pass, 신작과 게임플레이 소식을 정리했다."
 category: 게임뉴스
-tags: [게임스컴, Xbox, Awesome Indies]
+tags: [게임스컴, Xbox, 인디게임]
 date: 2026-08-28 13:47:00 +0900
 ---
 첫날이 "얼마나 많은 게임이 더 나왔나"를 확인하는 날이었다면, 둘째 날은 "그 게임들이 언제, 어디서, 어떤 방식으로 나오나"가 선명해진 날에 가까웠다.

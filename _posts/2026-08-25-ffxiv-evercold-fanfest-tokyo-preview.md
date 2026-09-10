@@ -2,7 +2,7 @@
 title: "FF14 8.0 Evercold 팬페 정리 — 아나하임·베를린 발표와 도쿄에서 기대할 것"
 description: "FF14 8.0 『Evercold』의 아나하임·베를린 팬페 발표를 정리하고, 마지막 무대인 10월 도쿄 팬페에서 무엇이 나올지 짚었다."
 category: 서브컬처
-tags: [FF14, Evercold, 팬페스티벌]
+tags: [FF14, MMORPG, 팬페스티벌]
 date: 2026-08-25 18:45:00 +0900
 ---
 
@@ -211,8 +211,8 @@ FF14의 메인 스토리는 지금까지 대체로 매우 선형적인 구조였
 
 결국 Evercold의 대형 레이드는
 
-- **8인 Raid: FINAL FANTASY VII REMAKE × FFXIV**
-- **24인 Alliance Raid: EVANGELION × FFXIV**
+- 8인 Raid: FINAL FANTASY VII REMAKE × FFXIV
+- 24인 Alliance Raid: EVANGELION × FFXIV
 
 라는 상당히 이례적인 조합이 됐다.
 

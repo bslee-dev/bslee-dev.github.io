@@ -2,7 +2,7 @@
 title: "게임스컴 2026 Day 3 총정리 — gamescom award·Fable·Wolverine·밤사이 추가 공개"
 description: "게임스컴 2026 본행사 3일차. gamescom award 19개 부문 결과와 Fable 전투 게임플레이, Marvel's Wolverine 기능 트레일러, Stranger Than Heaven 데모, For Honor 랭크 개편 등 밤사이 새로 나온 소식을 정리했다."
 category: 게임뉴스
-tags: [게임스컴, gamescom award, Fable, Wolverine]
+tags: [게임스컴, Xbox, 게임어워드]
 date: 2026-08-29 10:56:00 +0900
 ---
 게임스컴 2026 셋째 날은 앞선 이틀과 성격이 꽤 달랐다.
@@ -23,12 +23,12 @@ Day 2 글의 작성 기준이 8월 28일 13:47 KST였으므로, 그 이전에 �
 |---|---|
 | gamescom award | 총 19개 부문 수상작 발표 |
 | 최다 수상 | CD PROJEKT RED와 SEGA가 각각 3관왕 |
-| Best Gameplay | **Onimusha: Way of the Sword** |
-| Best Xbox Game | **Forza Horizon 6** |
-| Best PC Game | **Total War: WARHAMMER 40,000** |
-| Best Switch 2 Game | **Rayman Legends Retold** |
-| Consumer Best Booth | **Arknights: Endfield** |
-| Best Trailer / Announcement | **The Witcher 3 Remastered & Songs of the Past** |
+| Best Gameplay | Onimusha: Way of the Sword |
+| Best Xbox Game | Forza Horizon 6 |
+| Best PC Game | Total War: WARHAMMER 40,000 |
+| Best Switch 2 Game | Rayman Legends Retold |
+| Consumer Best Booth | Arknights: Endfield |
+| Best Trailer / Announcement | The Witcher 3 Remastered & Songs of the Past |
 | Fable | 약 **16분 전투 게임플레이**, style-weaving 전투 상세 공개 |
 | Marvel's Wolverine | 새 Features Trailer, 능력·전투·Special Techniques 상세 공개 |
 | Stranger Than Heaven | gamescom 데모 **12분 플레이 영상**과 요코야마 인터뷰 공개 |
