@@ -1,18 +1,6 @@
 ---
 layout: default
-body_class: home
 ---
-{% assign post_count = site.posts | size %}
-<section class="home-hero" aria-labelledby="home-title">
-  <p class="home-eyebrow">게임과 서브컬처 아카이브</p>
-  <h1 id="home-title">게임과 서브컬처의 작은 기록 보관소</h1>
-  <p class="home-description">{{ site.description }}</p>
-  <div class="home-overview">
-    <span><strong>{{ post_count }}</strong>편의 기록</span>
-    <a href="{{ '/series/' | relative_url }}">시리즈로 이어 읽기 &rarr;</a>
-  </div>
-</section>
-
 <section class="post-discovery" aria-label="글 찾기" hidden>
   <div class="search-field">
     <label for="post-search">글 검색</label>
