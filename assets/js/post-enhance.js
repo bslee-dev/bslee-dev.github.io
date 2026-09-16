@@ -1,9 +1,11 @@
 /*
- * 긴 글을 읽을 수 있게 만드는 두 가지 보정.
+ * 긴 글을 읽을 수 있게 만드는 네 가지 보정.
  *  1) 표를 스크롤 컨테이너로 감싼다 — kramdown은 표를 감싸주지 않아서
  *     좁은 화면에서 본문 밖으로 넘친다.
- *  2) h2가 충분히 많은 글에 목차를 붙인다.
- * 둘 다 마크다운 원문은 건드리지 않는다.
+ *  2) 현재 읽은 위치를 화면 위의 진행 막대로 표시한다.
+ *  3) 긴 글에서 맨 위로 돌아가는 버튼을 제공한다.
+ *  4) h2가 충분히 많은 글에 목차를 붙인다.
+ * 모두 마크다운 원문은 건드리지 않는다.
  */
 (function () {
   var content = document.querySelector('.post-content');
@@ -18,7 +20,44 @@
     box.appendChild(table);
   });
 
-  /* --- 2. 목차 --- */
+  /* --- 2. 읽기 진행률 + 맨 위로 --- */
+  var progress = document.createElement('div');
+  progress.className = 'reading-progress';
+  progress.setAttribute('role', 'progressbar');
+  progress.setAttribute('aria-label', '글 읽기 진행률');
+  progress.setAttribute('aria-valuemin', '0');
+  progress.setAttribute('aria-valuemax', '100');
+  var progressBar = document.createElement('span');
+  progress.appendChild(progressBar);
+  document.body.appendChild(progress);
+
+  var topButton = document.createElement('button');
+  topButton.className = 'back-to-top';
+  topButton.type = 'button';
+  topButton.setAttribute('aria-label', '맨 위로');
+  topButton.textContent = '↑';
+  document.body.appendChild(topButton);
+
+  function updateReadingTools() {
+    var contentTop = content.getBoundingClientRect().top + window.scrollY;
+    var contentEnd = contentTop + content.offsetHeight - window.innerHeight;
+    var percent = contentEnd <= contentTop
+      ? 100
+      : Math.max(0, Math.min(100, ((window.scrollY - contentTop) / (contentEnd - contentTop)) * 100));
+    progressBar.style.width = percent + '%';
+    progress.setAttribute('aria-valuenow', Math.round(percent));
+    topButton.classList.toggle('is-visible', window.scrollY > 700);
+  }
+
+  topButton.addEventListener('click', function () {
+    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: reduceMotion ? 'auto' : 'smooth' });
+  });
+  window.addEventListener('scroll', updateReadingTools, { passive: true });
+  window.addEventListener('resize', updateReadingTools);
+  updateReadingTools();
+
+  /* --- 4. 목차 --- */
   var MIN_HEADINGS = 8;
   var headings = Array.prototype.slice.call(content.querySelectorAll('h2'));
   if (headings.length < MIN_HEADINGS) return;
