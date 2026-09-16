@@ -14,6 +14,14 @@ date: 2026-09-15 10:40:00 +0900
 
 신작의 한국어 명칭은 읽기 편하도록 원제에서 옮긴 표기를 포함하며, 모두 국내 정식 발매명으로 확인했다는 뜻은 아니다. 발매일 역시 일본어 안내에 기재된 예정일로, 한국 출시 일정과 구분해서 읽어야 한다. 캡콤 특설 페이지는 직접 열리지 않아 발표문을 수록한 일본 매체 기사와 후속 안내를 근거로 삼았고, 나머지도 확인할 수 있었던 문서만 링크했다.
 
+## 9월 16일 업데이트 — 수상 결과와 개막 전야 방송
+
+글을 발행한 뒤 일본게임대상 2026 연간작품부문 결과가 발표됐다. 대상은 `ぽこ あ ポケモン`이 받았고, `PRAGMATA`는 브레이크스루상과 우수상을 함께 받았다. 게임 디자이너스 대상은 문자와 문맥을 게임 규칙으로 삼은 `文字遊戯`에 돌아갔다. [일본게임대상 공식 수상 결과](https://awards.cesa.or.jp/year/prize/index.html)
+
+개막 전야인 9월 16일 20시에는 `STRANGER THAN HEAVEN` 특별 방송이 추가로 예정돼 있다. 새 영상과 TGS 체험판 플레이를 소개하고, 후쿠오카·고쿠라와 히로시마·구레, 오사카·미나미의 거리, 어드벤처 요소와 ‘쇼비즈’ 게임 화면을 처음 공개한다. [세가 공식 방송 안내](https://www.sega.jp/topics/detail/260911_1/)
+
+같은 날 23시에는 기존에 예고된 `CAPCOM SPOTLIGHT｜TGS 2026`이 이어지고, 17일 19시에는 50분 편성의 `XBOX Tokyo Game Show 2026 Broadcast`가 열린다. 아래 방송표에도 두 프로그램을 반영했으며, 이 글은 방송 전 공개된 공식 일정까지만 다룬다. [TGS 공식 프로그램](https://tgs.cesa.or.jp/2026/program)
+
 ## 9월 17일 개막, 일반 관람은 19일부터
 
 주최 측 개최 개요에 따르면 올해 행사는 9월 17일부터 21일까지 열린다. 비즈니스 데이는 17~18일 10:00~17:00, 일반 공개일은 19~20일 9:30~17:00과 21일 9:30~16:00이다. 한국과 일본은 시차가 없어 방송 시간을 그대로 읽으면 되며, 패밀리 게임 파크는 본 전시장과 다른 TKP 도쿄 베이 마쿠하리 홀에 마련된다. [주최 측 개최 안내](https://tgs.cesa.or.jp/2026/en)
@@ -98,14 +106,16 @@ RGG 스튜디오의 `STRANGER THAN HEAVEN`은 세가의 공식 출전 페이지�
 
 | 날짜 | 시간 | 프로그램 | 확인할 점 |
 |---|---|---|---|
+| 9월 16일 수요일 | 20:00 시작 | `STRANGER THAN HEAVEN` TGS2026 스페셜 오프닝 나이트 라이브 | 새 영상, 체험판 플레이, 세 도시와 쇼비즈 공개 |
 | 9월 16일 수요일 | 23:00 시작 | 캡콤 스포트라이트 | 개막 전 신정보, 복귀 고룡 발표 예정 |
 | 9월 17일 목요일 | 15:40~16:20 | `STRANGER THAN HEAVEN` 용스타 TV | 공식적으로 예고된 신정보 |
+| 9월 17일 목요일 | 19:00~19:50 | Xbox Tokyo Game Show 2026 Broadcast | Xbox 출전작과 최신 발표 |
 | 9월 19일 토요일 | 11:20~12:10 | `페르소나 4 리바이벌` 특별 무대 | 작품 소개와 시연 관련 정보 |
 | 9월 19일 토요일 | 13:20~14:10 | `토탈 워: 워해머 40,000` 특별 무대 | 전략과 실시간 전투의 설명 |
 | 9월 19일 토요일 | 14:30~16:00 | `SILENT HILL: Townfall` 특별 방송 | 프로듀서 토크와 실황 플레이 |
 | 9월 20일 일요일 | 14:00~15:30 | `Castlevania: Belmont’s Curse` 방송 | 출연진의 실제 플레이 |
 
-캡콤 시간은 발표문을 수록한 INSIDE, 세가 시간은 공식 특설 사이트와 4Gamer의 세가 발표문, 코나미 시간은 공식 일본어 방송표를 대조했다. 세가는 전 스테이지의 유튜브 중계를 안내한다. 다만 프로그램과 출연진은 바뀔 수 있으므로 시청 직전에 다시 확인하는 편이 좋다. [캡콤 발표](https://www.inside-games.jp/article/2026/09/01/187073.html), [세가 공식 일정](https://tgs.sega.jp/2026/ja/), [세가 배포 안내](https://www.4gamer.net/games/991/G999110/20260911057/), [코나미 일정](https://www.konami.com/games/tgs/ja/)
+캡콤 시간은 발표문을 수록한 INSIDE, 세가 시간은 공식 특설 사이트와 방송 안내, Xbox는 TGS 공식 프로그램, 코나미 시간은 공식 일본어 방송표를 대조했다. 세가는 전 스테이지의 유튜브 중계를 안내한다. 다만 프로그램과 출연진은 바뀔 수 있으므로 시청 직전에 다시 확인하는 편이 좋다. [캡콤 발표](https://www.inside-games.jp/article/2026/09/01/187073.html), [세가 공식 일정](https://tgs.sega.jp/2026/ja/), [세가 개막 전야 방송](https://www.sega.jp/topics/detail/260911_1/), [TGS 공식 프로그램](https://tgs.cesa.or.jp/2026/program), [코나미 일정](https://www.konami.com/games/tgs/ja/)
 
 현장 방문자라면 입장권과 개별 게임 시연권을 구분해야 한다. 세가의 `페르소나 4 리바이벌`과 `STRANGER THAN HEAVEN` 우선 시연 추첨은 9월 13일에 마감됐고, `에이스 컴뱃 8`은 일반 공개일 당일 정리권을 안내한다. 예전 공지의 신청 버튼이 남아 있더라도 지금 유효한 접수인지 확인해야 헛걸음을 줄일 수 있다. [세가 추첨 기간](https://www.4gamer.net/games/991/G999110/20260911057/), [반다이남코 시연 조건](https://prtimes.jp/main/html/rd/p/000002284.000051316.html)
 
@@ -118,12 +128,15 @@ RGG 스튜디오의 `STRANGER THAN HEAVEN`은 세가의 공식 출전 페이지�
 ## 참고 자료
 
 - [TGS 주최 측 — 2026 개최 개요](https://tgs.cesa.or.jp/2026/en)
+- [일본게임대상 — 2026 연간작품부문 수상 결과](https://awards.cesa.or.jp/year/prize/index.html)
 - [INSIDE — 캡콤 출전 정보 제1탄과 시연 세부 사항, 9월 1일](https://www.inside-games.jp/article/2026/09/01/187073.html)
 - [GameWith — 캡콤 부스 안내, 9월 14일 갱신](https://gamewith.jp/tgs/572703)
 - [세가 — 페르소나 4 리바이벌 출전 안내](https://tgs.sega.jp/2026/ja/lineup/02/)
 - [세가 — STRANGER THAN HEAVEN 출전 안내](https://tgs.sega.jp/2026/ja/lineup/01/)
 - [세가 — 토탈 워: 워해머 40,000 출전 안내](https://tgs.sega.jp/2026/ja/lineup/03/)
 - [세가·아틀라스 — 공식 TGS 일정](https://tgs.sega.jp/2026/ja/)
+- [세가 — STRANGER THAN HEAVEN 개막 전야 방송 안내](https://www.sega.jp/topics/detail/260911_1/)
+- [TGS 주최 측 — 2026 공식 프로그램](https://tgs.cesa.or.jp/2026/program)
 - [4Gamer — 세가 배포 스테이지·중계 안내, 9월 11일](https://www.4gamer.net/games/991/G999110/20260911057/)
 - [파이널 판타지 공식 포털 — 출전 발표, 9월 4일](https://jp.finalfantasy.com/news/6120)
 - [스퀘어에닉스 — TGS 2026 시연·전시 안내](https://www.jp.square-enix.com/tgs26/)
@@ -134,4 +147,4 @@ RGG 스튜디오의 `STRANGER THAN HEAVEN`은 세가의 공식 출전 페이지�
 - [Gamer — 샹그릴라 프론티어 세계 첫 시연과 성우 무대, 9월 1일](https://www.gamer.ne.jp/news/202609010031/)
 - [Gamer — 샹그릴라 프론티어 사전등록과 추가 무대 안내, 9월 14일](https://www.gamer.ne.jp/news/202609140022/)
 
-**작성 기준: 2026-09-15 KST**
+**작성 기준: 2026-09-16 KST**
