@@ -18,6 +18,7 @@ category_list:
   - 캐릭터평전
   - 인물
   - 서브컬처
+  - 공지
 
 permalink: /:year/:month/:day/:title/
 

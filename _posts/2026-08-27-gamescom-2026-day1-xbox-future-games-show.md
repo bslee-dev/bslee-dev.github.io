@@ -5,11 +5,7 @@ category: 게임뉴스
 tags: [게임스컴, Xbox]
 date: 2026-08-27 11:07:00 +0900
 ---
-게임스컴 2026은 Opening Night Live가 끝난 뒤에도 곧바로 발표가 이어졌다.
-
-앞선 글인 [게임스컴 2026 Opening Night Live 총정리 — 발표작, 출시일, 공식 트레일러](/2026/08/26/gamescom-onl-2026-summary/)에서는 개막 방송을 정리했다. 이번 글은 그 뒤 한국 시간 8월 26일 밤부터 27일 오전 사이에 진행된 Xbox @ gamescom Day 1, Future Games Show at gamescom, 그리고 바로 이어진 FGS Live From gamescom을 묶은 후속 기록이다.
-
-단순히 ONL에서 다시 나온 게임을 반복하기보다, 밤사이에 **새로 공개되거나 구체화된 정보**를 중심으로 정리했다.
+게임스컴 2026은 Opening Night Live가 끝난 뒤에도 곧바로 발표가 이어졌다. 앞선 글인 [게임스컴 2026 Opening Night Live 총정리 — 발표작, 출시일, 공식 트레일러](/2026/08/26/gamescom-onl-2026-summary/)에서는 개막 방송을 정리했다. 이번 글은 그 뒤 한국 시간 8월 26일 밤부터 27일 오전 사이에 진행된 Xbox @ gamescom Day 1, Future Games Show at gamescom, 그리고 바로 이어진 FGS Live From gamescom을 묶은 후속 기록이다. 단순히 ONL에서 다시 나온 게임을 반복하기보다, 밤사이에 **새로 공개되거나 구체화된 정보**를 중심으로 정리했다.
 
 - Xbox @ gamescom Day 1: 8월 26일 16:00 CEST / 8월 26일 23:00 KST
 - Future Games Show at gamescom: 8월 26일 19:00 CEST / 8월 27일 02:00 KST
@@ -72,13 +68,7 @@ ONL 이후 밤사이에 다시 확인되거나 새로 공개된 주요 일정만
 
 ## Xbox의 가장 큰 발표는 게임이 아니라 Disc-to-Digital
 
-Xbox Day 1에서 가장 의미가 큰 플랫폼 발표는 Disc-to-Digital이었다.
-
-Microsoft 설명에 따르면 지원되는 Xbox One 또는 Xbox Series X 디스크를 콘솔에 넣고 게임을 실행하면 해당 타이틀의 digital entitlement, 즉 디지털 이용 권리를 계정에 연결할 수 있다.
-
-이후 해당 게임이 지원한다면 Xbox Play Anywhere나 Xbox Cloud Gaming 같은 디지털 기능을 이용할 수 있다. 기존 실물 디스크 자체도 이전처럼 계속 사용할 수 있다.
-
-핵심은 단순히 디스크 드라이브 없이 실행한다는 한 문장보다, **기존 물리 라이브러리를 Xbox의 디지털 생태계와 연결하는 보존 정책**에 가깝다는 점이다.
+Xbox Day 1에서 가장 의미가 큰 플랫폼 발표는 Disc-to-Digital이었다. Microsoft 설명에 따르면 지원되는 Xbox One 또는 Xbox Series X 디스크를 콘솔에 넣고 게임을 실행하면 해당 타이틀의 digital entitlement, 즉 디지털 이용 권리를 계정에 연결할 수 있다. 이후 해당 게임이 지원한다면 Xbox Play Anywhere나 Xbox Cloud Gaming 같은 디지털 기능을 이용할 수 있다. 기존 실물 디스크 자체도 이전처럼 계속 사용할 수 있다. 핵심은 단순히 디스크 드라이브 없이 실행한다는 한 문장보다, **기존 물리 라이브러리를 Xbox의 디지털 생태계와 연결하는 보존 정책**에 가깝다는 점이다.
 
 - Xbox Insider 테스트 시작: 2026-08-31
 - 대상: 대부분의 Xbox One / Xbox Series X 디스크 기반 게임
@@ -92,11 +82,7 @@ Microsoft가 실물 소프트웨어 보존 문제에 플랫폼 차원에서 답�
 
 ## Fable — 처음으로 직접 플레이한 전투가 공개됐다
 
-Playground Games의 Fable은 이번 gamescom에서 처음으로 press와 creator가 직접 플레이하는 데모를 제공했다.
-
-시연 퀘스트는 `Mud and Death`다. 주인공 Hero가 Heroes' Guild의 리더 Humphry와 함께 한때 침수됐던 광산으로 들어가 유령과 해골을 상대한다.
-
-이번 데모에서 가장 명확해진 것은 전투 구조다. 과거 Fable의 Strength / Skill / Will 개념을 계승하면서도 근접 공격, 원거리 무기, 마법을 상황에 따라 자연스럽게 전환한다.
+Playground Games의 Fable은 이번 gamescom에서 처음으로 press와 creator가 직접 플레이하는 데모를 제공했다. 시연 퀘스트는 `Mud and Death`다. 주인공 Hero가 Heroes' Guild의 리더 Humphry와 함께 한때 침수됐던 광산으로 들어가 유령과 해골을 상대한다. 이번 데모에서 가장 명확해진 것은 전투 구조다. 과거 Fable의 Strength / Skill / Will 개념을 계승하면서도 근접 공격, 원거리 무기, 마법을 상황에 따라 자연스럽게 전환한다.
 
 ### 근접 전투
 
@@ -104,15 +90,11 @@ Playground Games의 Fable은 이번 gamescom에서 처음으로 press와 creator
 
 ### 마법
 
-공개된 마법은 Fireball, Lightning, Blades, Lift 등이다.
-
-특히 Lift로 여러 적을 공중에 띄운 뒤 Lightning을 연계하거나, 다시 Lift를 사용해 적들을 바닥에 내리꽂는 식의 조합이 가능했다.
+공개된 마법은 Fireball, Lightning, Blades, Lift 등이다. 특히 Lift로 여러 적을 공중에 띄운 뒤 Lightning을 연계하거나, 다시 Lift를 사용해 적들을 바닥에 내리꽂는 식의 조합이 가능했다.
 
 ### 원거리
 
-`Deepwood Bow`와 `Repeater Crossbow`가 시연됐다. 단순 원거리 피해뿐 아니라 적의 신체나 약점을 노리는 용도로 설계돼 있다.
-
-적도 역할이 나뉜다.
+`Deepwood Bow`와 `Repeater Crossbow`가 시연됐다. 단순 원거리 피해뿐 아니라 적의 신체나 약점을 노리는 용도로 설계돼 있다. 적도 역할이 나뉜다.
 
 - Hollow Folk: 근접·원거리·장갑형 등 여러 변종의 해골
 - Wraith: 빠르게 이동하며 다른 Hollow Folk를 생성할 수 있는 유령
@@ -127,13 +109,7 @@ Fable은 2027년 2월 23일 출시된다. Premium Edition은 2월 18일부터 Ea
 
 ## Tomb Raider: Legacy of Atlantis — 원작 1편을 현대적으로 재구성
 
-Tomb Raider: Legacy of Atlantis도 Xbox 방송에서 긴 게임플레이를 공개했다.
-
-이 작품은 1996년 첫 Tomb Raider를 그대로 복각하는 단순 리마스터가 아니라, Crystal Dynamics와 Flying Wild Hog가 현대적인 이동·전투·레벨 디자인으로 다시 만드는 재해석 작품이다.
-
-배경은 원작과 마찬가지로 페루, 그리스, 이집트와 지중해의 섬을 오가며 `Scion`의 조각을 추적한다. Unreal Engine 5를 사용하고, Lara의 상징인 쌍권총 역시 현대 전투 시스템에 맞춰 돌아온다.
-
-출시일은 2027년 2월 12일이다.
+Tomb Raider: Legacy of Atlantis도 Xbox 방송에서 긴 게임플레이를 공개했다. 이 작품은 1996년 첫 Tomb Raider를 그대로 복각하는 단순 리마스터가 아니라, Crystal Dynamics와 Flying Wild Hog가 현대적인 이동·전투·레벨 디자인으로 다시 만드는 재해석 작품이다. 배경은 원작과 마찬가지로 페루, 그리스, 이집트와 지중해의 섬을 오가며 `Scion`의 조각을 추적한다. Unreal Engine 5를 사용하고, Lara의 상징인 쌍권총 역시 현대 전투 시스템에 맞춰 돌아온다. 출시일은 2027년 2월 12일이다.
 
 - 개발: Crystal Dynamics / Flying Wild Hog
 - 퍼블리셔: Amazon Game Studios
@@ -160,51 +136,33 @@ Series X25 Limited Edition은 반투명 `OG Green` 디자인과 개별 일련번
 
 ## Future Games Show — ONL 다음날에도 신작이 쏟아졌다
 
-Future Games Show at gamescom은 Resident Evil Requiem에서 Leon Kennedy를 맡은 Nick Apostolides와 Grace Ashcroft를 맡은 Angela Sant'Albano가 진행했다.
-
-GamesRadar의 공식 정리에 따르면 방송에는 **13개의 월드 프리미어 트레일러**가 포함됐다. 대형 퍼블리셔 발표보다는 중견·인디 프로젝트의 신작 공개와 출시일 확정 비중이 높았다.
+Future Games Show at gamescom은 Resident Evil Requiem에서 Leon Kennedy를 맡은 Nick Apostolides와 Grace Ashcroft를 맡은 Angela Sant'Albano가 진행했다. GamesRadar의 공식 정리에 따르면 방송에는 **13개의 월드 프리미어 트레일러**가 포함됐다. 대형 퍼블리셔 발표보다는 중견·인디 프로젝트의 신작 공개와 출시일 확정 비중이 높았다.
 
 ### Wolcen 2 — 전작의 정식 후속작
 
-Wolcen 2가 월드 프리미어로 공개됐다.
-
-Wolcen Studios가 만든 다크 판타지 액션 RPG `Wolcen: Lords of Mayhem`의 정식 후속작이다. 구체적인 시스템은 아직 많이 공개되지 않았지만 2027년 Early Access 시작이 확정됐다.
+Wolcen 2가 월드 프리미어로 공개됐다. Wolcen Studios가 만든 다크 판타지 액션 RPG `Wolcen: Lords of Mayhem`의 정식 후속작이다. 구체적인 시스템은 아직 많이 공개되지 않았지만 2027년 Early Access 시작이 확정됐다.
 
 ### Greak 2: Alliance of the Storms
 
-Greak 2: Alliance of the Storms도 처음 공개됐다.
-
-전작의 손그림 스타일을 이어가면서 여러 차원을 오가는 협동 메트로배니아 구조를 내세운다. 2027년 PC와 콘솔 출시 예정이다.
+Greak 2: Alliance of the Storms도 처음 공개됐다. 전작의 손그림 스타일을 이어가면서 여러 차원을 오가는 협동 메트로배니아 구조를 내세운다. 2027년 PC와 콘솔 출시 예정이다.
 
 ### PixelJunk Monsters 3
 
-Q-Games의 타워 디펜스 시리즈가 PixelJunk Monsters 3로 돌아온다.
-
-정식 출시일은 아직 없지만 9월 4일 비공개 Steam Playtest가 예정돼 있다.
+Q-Games의 타워 디펜스 시리즈가 PixelJunk Monsters 3로 돌아온다. 정식 출시일은 아직 없지만 9월 4일 비공개 Steam Playtest가 예정돼 있다.
 
 ### Dungeons & Dragons: Long Rest Tavern
 
-D&D 세계관을 사용하지만 전투 RPG가 아닌 **선술집 생활 시뮬레이션**이라는 점이 특이하다.
-
-모험가들을 손님으로 맞아 음식을 내고 선술집을 운영하는 게임이며 2027년 초 PC 출시 예정이다.
+D&D 세계관을 사용하지만 전투 RPG가 아닌 **선술집 생활 시뮬레이션**이라는 점이 특이하다. 모험가들을 손님으로 맞아 음식을 내고 선술집을 운영하는 게임이며 2027년 초 PC 출시 예정이다.
 
 ### Escape from Playtime
 
-FGS 본편의 마지막 월드 프리미어는 Escape from Playtime이었다.
-
-Poppy Playtime 세계관을 사용하는 **협동 생존 호러**로, 기존 싱글 플레이 중심 본편과 다른 방향의 프로젝트다. 출시 시기는 아직 구체적으로 확정되지 않았다.
+FGS 본편의 마지막 월드 프리미어는 Escape from Playtime이었다. Poppy Playtime 세계관을 사용하는 **협동 생존 호러**로, 기존 싱글 플레이 중심 본편과 다른 방향의 프로젝트다. 출시 시기는 아직 구체적으로 확정되지 않았다.
 
 ## NO LAW — ONL보다 중요한 시스템 설명이 나왔다
 
-ONL에서 KRAFTON과 Neon Giant가 NO LAW의 신규 영상을 공개했지만, FGS에서는 게임의 구조를 훨씬 더 구체적으로 설명했다.
+ONL에서 KRAFTON과 Neon Giant가 NO LAW의 신규 영상을 공개했지만, FGS에서는 게임의 구조를 훨씬 더 구체적으로 설명했다. 가장 독특한 부분은 **NPC의 죽음이 영구적**이라는 점이다. 개발진 설명에 따르면 원칙적으로 모든 NPC를 죽일 수 있으며, 죽은 인물은 다시 살아나지 않는다. 예를 들어 상점 주인을 죽이면 해당 상점이 닫힐 수 있고, 무기 상인들을 전부 제거하면 결과적으로 총기를 구매할 장소 자체가 없어질 수도 있다.
 
-가장 독특한 부분은 **NPC의 죽음이 영구적**이라는 점이다.
-
-개발진 설명에 따르면 원칙적으로 모든 NPC를 죽일 수 있으며, 죽은 인물은 다시 살아나지 않는다. 예를 들어 상점 주인을 죽이면 해당 상점이 닫힐 수 있고, 무기 상인들을 전부 제거하면 결과적으로 총기를 구매할 장소 자체가 없어질 수도 있다.
-
-중요 인물을 공격하려 할 때는 경고와 일부 안전장치를 제공하지만, 플레이어의 행동이 세계에 실제로 남는 방향으로 설계하고 있다.
-
-The Ascent가 비교적 고정된 아이소메트릭 액션 RPG였다면 NO LAW는 1인칭 오픈월드에서 **잠입·해킹·전투·NPC 관계와 영구적 결과**를 결합하려는 게임이라는 점이 더 분명해졌다.
+중요 인물을 공격하려 할 때는 경고와 일부 안전장치를 제공하지만, 플레이어의 행동이 세계에 실제로 남는 방향으로 설계하고 있다. The Ascent가 비교적 고정된 아이소메트릭 액션 RPG였다면 NO LAW는 1인칭 오픈월드에서 **잠입·해킹·전투·NPC 관계와 영구적 결과**를 결합하려는 게임이라는 점이 더 분명해졌다.
 
 - 개발: Neon Giant
 - 퍼블리셔: KRAFTON
@@ -275,15 +233,11 @@ Future Games Show가 끝난 직후에는 별도의 FGS Live From gamescom이 이
 
 ### Warhammer 40,000: Boltgun 2 — Mick Gordon 합류
 
-복고풍 FPS Warhammer 40,000: Boltgun 2는 새 트레일러와 함께 `DOOM`으로 유명한 작곡가 Mick Gordon과의 음악 협업을 발표했다.
-
-출시일은 2026년 10월 14일이다.
+복고풍 FPS Warhammer 40,000: Boltgun 2는 새 트레일러와 함께 `DOOM`으로 유명한 작곡가 Mick Gordon과의 음악 협업을 발표했다. 출시일은 2026년 10월 14일이다.
 
 ### Nivalis Nights — 9월 29일
 
-Cloudpunk 개발사 ION LANDS의 Nivalis Nights는 9월 29일 PC 출시를 확정했다.
-
-사이버펑크 도시에서 사업을 운영하고 사람들과 관계를 맺으며 살아가는 생활 시뮬레이션이다. 전작 Cloudpunk의 도시적 분위기를 액션보다 일상과 경영 쪽으로 확장한 프로젝트에 가깝다.
+Cloudpunk 개발사 ION LANDS의 Nivalis Nights는 9월 29일 PC 출시를 확정했다. 사이버펑크 도시에서 사업을 운영하고 사람들과 관계를 맺으며 살아가는 생활 시뮬레이션이다. 전작 Cloudpunk의 도시적 분위기를 액션보다 일상과 경영 쪽으로 확장한 프로젝트에 가깝다.
 
 ### FGS Live 전체 발표
 
@@ -319,21 +273,13 @@ Cloudpunk 개발사 ION LANDS의 Nivalis Nights는 9월 29일 PC 출시를 확�
 
 ## ONL과 비교하면 무엇이 달랐나
 
-ONL은 `The Witcher 3`, Final Fantasy VII Revelation, Gears of War: E-Day처럼 이미 큰 관심을 받는 작품과 대형 월드 프리미어를 한꺼번에 보여주는 **개막 쇼케이스**에 가까웠다.
+ONL은 `The Witcher 3`, Final Fantasy VII Revelation, Gears of War: E-Day처럼 이미 큰 관심을 받는 작품과 대형 월드 프리미어를 한꺼번에 보여주는 **개막 쇼케이스**에 가까웠다. 반면 첫날 본행사 방송은 성격이 달랐다. Xbox는 Fable과 Tomb Raider처럼 이미 발표된 대작을 **실제 플레이 수준으로 깊게 보여주는 데** 시간을 사용했고, 동시에 Disc-to-Digital처럼 플랫폼 정책과 하드웨어도 공개했다.
 
-반면 첫날 본행사 방송은 성격이 달랐다.
-
-Xbox는 Fable과 Tomb Raider처럼 이미 발표된 대작을 **실제 플레이 수준으로 깊게 보여주는 데** 시간을 사용했고, 동시에 Disc-to-Digital처럼 플랫폼 정책과 하드웨어도 공개했다.
-
-Future Games Show는 Wolcen 2, Greak 2, PixelJunk Monsters 3, Dungeons & Dragons: Long Rest Tavern, Escape from Playtime처럼 **ONL에 나오지 않았던 중견·인디 신작을 대량으로 추가**했다. 출시일이 9~10월에 몰린 게임들도 상당히 많았다.
-
-따라서 ONL만 보면 gamescom 2026의 큰 제목은 파악할 수 있지만, 실제 올해와 내년 플레이할 게임 목록을 넓히려면 첫날 FGS 쪽 발표도 같이 볼 필요가 있다.
+Future Games Show는 Wolcen 2, Greak 2, PixelJunk Monsters 3, Dungeons & Dragons: Long Rest Tavern, Escape from Playtime처럼 **ONL에 나오지 않았던 중견·인디 신작을 대량으로 추가**했다. 출시일이 9~10월에 몰린 게임들도 상당히 많았다. 따라서 ONL만 보면 gamescom 2026의 큰 제목은 파악할 수 있지만, 실제 올해와 내년 플레이할 게임 목록을 넓히려면 첫날 FGS 쪽 발표도 같이 볼 필요가 있다.
 
 ## 27일 밤부터 이어지는 방송
 
-게임스컴은 아직 진행 중이다.
-
-이 글 작성 시점인 8월 27일 오전 KST 이후에도 주요 방송이 남아 있다.
+게임스컴은 아직 진행 중이다. 이 글 작성 시점인 8월 27일 오전 KST 이후에도 주요 방송이 남아 있다.
 
 - Xbox @ gamescom Day 2: 8월 27일 23:00 KST
 - Awesome Indies: 8월 28일 03:00 KST
