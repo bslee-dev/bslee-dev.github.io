@@ -7,16 +7,16 @@ date: 2026-08-27 11:07:00 +0900
 ---
 게임스컴 2026은 Opening Night Live가 끝난 뒤에도 곧바로 발표가 이어졌다.
 
-앞선 글인 [게임스컴 2026 Opening Night Live 총정리 — 발표작, 출시일, 공식 트레일러](/2026/08/26/gamescom-onl-2026-summary/)에서는 개막 방송을 정리했다. 이번 글은 그 뒤 **한국 시간 8월 26일 밤부터 27일 오전 사이**에 진행된 Xbox @ gamescom Day 1, Future Games Show at gamescom, 그리고 바로 이어진 FGS Live From gamescom을 묶은 후속 기록이다.
+앞선 글인 [게임스컴 2026 Opening Night Live 총정리 — 발표작, 출시일, 공식 트레일러](/2026/08/26/gamescom-onl-2026-summary/)에서는 개막 방송을 정리했다. 이번 글은 그 뒤 한국 시간 8월 26일 밤부터 27일 오전 사이에 진행된 Xbox @ gamescom Day 1, Future Games Show at gamescom, 그리고 바로 이어진 FGS Live From gamescom을 묶은 후속 기록이다.
 
 단순히 ONL에서 다시 나온 게임을 반복하기보다, 밤사이에 **새로 공개되거나 구체화된 정보**를 중심으로 정리했다.
 
-- Xbox @ gamescom Day 1: **8월 26일 16:00 CEST / 8월 26일 23:00 KST**
-- Future Games Show at gamescom: **8월 26일 19:00 CEST / 8월 27일 02:00 KST**
+- Xbox @ gamescom Day 1: 8월 26일 16:00 CEST / 8월 26일 23:00 KST
+- Future Games Show at gamescom: 8월 26일 19:00 CEST / 8월 27일 02:00 KST
 - FGS Live From gamescom: Future Games Show 직후 진행
-- 이 글의 작성 기준: **2026년 8월 27일 오전 KST**
+- 이 글의 작성 기준: 2026년 8월 27일 오전 KST
 
-아직 열리지 않은 **Xbox Day 2는 8월 27일 23:00 KST**, Awesome Indies는 **8월 28일 03:00 KST** 예정이므로 이번 글에는 포함하지 않았다.
+아직 열리지 않은 Xbox Day 2는 8월 27일 23:00 KST, Awesome Indies는 8월 28일 03:00 KST 예정이므로 이번 글에는 포함하지 않았다.
 
 ## 먼저 보는 밤사이 핵심
 
@@ -80,7 +80,7 @@ Microsoft 설명에 따르면 지원되는 Xbox One 또는 Xbox Series X 디스�
 
 핵심은 단순히 디스크 드라이브 없이 실행한다는 한 문장보다, **기존 물리 라이브러리를 Xbox의 디지털 생태계와 연결하는 보존 정책**에 가깝다는 점이다.
 
-- Xbox Insider 테스트 시작: **2026-08-31**
+- Xbox Insider 테스트 시작: 2026-08-31
 - 대상: 대부분의 Xbox One / Xbox Series X 디스크 기반 게임
 - 시작 시점부터 수천 개 타이틀 지원 예정
 - 모든 게임이 처음부터 지원되는 것은 아님
@@ -118,7 +118,7 @@ Playground Games의 Fable은 이번 gamescom에서 처음으로 press와 creator
 - Wraith: 빠르게 이동하며 다른 Hollow Folk를 생성할 수 있는 유령
 - Lantern Keeper: 비행, 화염 브레스, 폭발 투사체, Wraith 소환을 사용하는 미니 보스
 
-Fable은 **2027년 2월 23일** 출시된다. Premium Edition은 **2월 18일**부터 Early Access가 시작된다.
+Fable은 2027년 2월 23일 출시된다. Premium Edition은 2월 18일부터 Early Access가 시작된다.
 
 - 플랫폼: Xbox Series X|S / Xbox on PC / Cloud
 - Game Pass 포함
@@ -133,7 +133,7 @@ Tomb Raider: Legacy of Atlantis도 Xbox 방송에서 긴 게임플레이를 공�
 
 배경은 원작과 마찬가지로 페루, 그리스, 이집트와 지중해의 섬을 오가며 `Scion`의 조각을 추적한다. Unreal Engine 5를 사용하고, Lara의 상징인 쌍권총 역시 현대 전투 시스템에 맞춰 돌아온다.
 
-출시일은 **2027년 2월 12일**이다.
+출시일은 2027년 2월 12일이다.
 
 - 개발: Crystal Dynamics / Flying Wild Hog
 - 퍼블리셔: Amazon Game Studios
@@ -168,25 +168,25 @@ GamesRadar의 공식 정리에 따르면 방송에는 **13개의 월드 프리�
 
 Wolcen 2가 월드 프리미어로 공개됐다.
 
-Wolcen Studios가 만든 다크 판타지 액션 RPG `Wolcen: Lords of Mayhem`의 정식 후속작이다. 구체적인 시스템은 아직 많이 공개되지 않았지만 **2027년 Early Access** 시작이 확정됐다.
+Wolcen Studios가 만든 다크 판타지 액션 RPG `Wolcen: Lords of Mayhem`의 정식 후속작이다. 구체적인 시스템은 아직 많이 공개되지 않았지만 2027년 Early Access 시작이 확정됐다.
 
 ### Greak 2: Alliance of the Storms
 
 Greak 2: Alliance of the Storms도 처음 공개됐다.
 
-전작의 손그림 스타일을 이어가면서 여러 차원을 오가는 협동 메트로배니아 구조를 내세운다. **2027년 PC와 콘솔** 출시 예정이다.
+전작의 손그림 스타일을 이어가면서 여러 차원을 오가는 협동 메트로배니아 구조를 내세운다. 2027년 PC와 콘솔 출시 예정이다.
 
 ### PixelJunk Monsters 3
 
 Q-Games의 타워 디펜스 시리즈가 PixelJunk Monsters 3로 돌아온다.
 
-정식 출시일은 아직 없지만 **9월 4일 비공개 Steam Playtest**가 예정돼 있다.
+정식 출시일은 아직 없지만 9월 4일 비공개 Steam Playtest가 예정돼 있다.
 
 ### Dungeons & Dragons: Long Rest Tavern
 
 D&D 세계관을 사용하지만 전투 RPG가 아닌 **선술집 생활 시뮬레이션**이라는 점이 특이하다.
 
-모험가들을 손님으로 맞아 음식을 내고 선술집을 운영하는 게임이며 **2027년 초 PC** 출시 예정이다.
+모험가들을 손님으로 맞아 음식을 내고 선술집을 운영하는 게임이며 2027년 초 PC 출시 예정이다.
 
 ### Escape from Playtime
 
@@ -275,9 +275,9 @@ Future Games Show가 끝난 직후에는 별도의 FGS Live From gamescom이 이
 
 ### Warhammer 40,000: Boltgun 2 — Mick Gordon 합류
 
-복고풍 FPS Warhammer 40,000: Boltgun 2는 새 트레일러와 함께 `DOOM`으로 유명한 작곡가 **Mick Gordon**과의 음악 협업을 발표했다.
+복고풍 FPS Warhammer 40,000: Boltgun 2는 새 트레일러와 함께 `DOOM`으로 유명한 작곡가 Mick Gordon과의 음악 협업을 발표했다.
 
-출시일은 **2026년 10월 14일**이다.
+출시일은 2026년 10월 14일이다.
 
 ### Nivalis Nights — 9월 29일
 
@@ -329,18 +329,18 @@ Future Games Show는 Wolcen 2, Greak 2, PixelJunk Monsters 3, Dungeons & Dragons
 
 따라서 ONL만 보면 gamescom 2026의 큰 제목은 파악할 수 있지만, 실제 올해와 내년 플레이할 게임 목록을 넓히려면 첫날 FGS 쪽 발표도 같이 볼 필요가 있다.
 
-## 다음 발표
+## 27일 밤부터 이어지는 방송
 
 게임스컴은 아직 진행 중이다.
 
-이 글 작성 시점인 **8월 27일 오전 KST** 이후에도 주요 방송이 남아 있다.
+이 글 작성 시점인 8월 27일 오전 KST 이후에도 주요 방송이 남아 있다.
 
-- Xbox @ gamescom Day 2: **8월 27일 23:00 KST**
-- Awesome Indies: **8월 28일 03:00 KST**
-- Future Games Show Best of gamescom: **8월 31일 새벽 KST 전후**
-- gamescom 본 행사 종료: **8월 30일 CEST**
+- Xbox @ gamescom Day 2: 8월 27일 23:00 KST
+- Awesome Indies: 8월 28일 03:00 KST
+- Future Games Show Best of gamescom: 8월 31일 새벽 KST 전후
+- gamescom 본 행사 종료: 8월 30일 CEST
 
-Day 2에서는 Microsoft Flight Simulator 2024, Dragon's Dogma 2: Dark Arisen, Call of Duty: Modern Warfare 4, Turok: Origins, Stranger Than Heaven, Stuntman: Hollywood, Planet Zoo 2, Cassette Beasts 2002, Dune: Awakening, Armatus 등이 예고돼 있다.
+Day 2에서는 Microsoft Flight Simulator 2024, Dragon's Dogma 2: Dark Arisen, Call of Duty: Modern Warfare 4, Turok: Origins, Stranger Than Heaven, Stuntman: Hollywood, Planet Zoo 2, Cassette Beasts 2002, Dune: Awakening, Armatus 등이 예고돼 있다. 첫날이 신작 공개의 양으로 채워졌다면, 남은 방송에서 내가 확인하고 싶은 것은 예고된 제목들이 실제 플레이 장면까지 보여주는지다.
 
 ## 참고 자료
 

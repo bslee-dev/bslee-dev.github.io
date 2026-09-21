@@ -207,7 +207,7 @@ I의 혁신은 사람, II는 관계와 계략, III는 조직과 공간, IV는 �
 - [Steam — 『三國志V with 파워업키트』](https://store.steampowered.com/app/521750/Romance_of_the_Three_Kingdoms_V_with_Power_Up_Kit/?l=japanese)
 - [코에이테크모 — PSP 『三國志V』 카탈로그](https://www.gamecity.ne.jp/psp/san05/)
 - [코에이테크모 — 닌텐도 3DS 『三國志』](https://www.gamecity.ne.jp/sangokushi/s3ds/)
-- [패미통 — 3DS 『三國志』 초보자용 시스템 해설](https://www.famitsu.com/news/201308/09038129.html)
+- [파미통 — 3DS 『三國志』 초보자용 시스템 해설](https://www.famitsu.com/news/201308/09038129.html)
 - [4Gamer — 『三國志DS 3』 리뷰와 V 기반 리메이크](https://www.4gamer.net/games/099/G009984/20100305027/)
 - [코에이테크모 — iOS·Android 『三國志V』](https://www.gamecity.ne.jp/sangokushi5/)
 - [VGMdb — 『三國志V』 사운드트랙](https://vgmdb.net/album/3051)

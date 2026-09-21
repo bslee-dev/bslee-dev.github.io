@@ -324,7 +324,7 @@ Armatus, Deep Dish Dungeon, DayZ: Badlands, The Séance of Blake Manor가 날짜
 
 그리고 Awesome Indies까지 포함하면 또 하나가 보인다. ONL의 몇 분짜리 대작 트레일러 뒤에 가려져 있던, 아주 작은 팀의 게임을 발견하는 것이 본행사 gamescom의 다른 절반이라는 점이다.
 
-## 다음 발표
+## 폐막까지 남은 세 가지
 
 gamescom 2026은 아직 끝나지 않았다.
 

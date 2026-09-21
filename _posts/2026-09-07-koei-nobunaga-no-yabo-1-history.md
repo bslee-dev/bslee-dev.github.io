@@ -187,7 +187,7 @@ CPU 국가끼리는 협력하지 않아 외교가 후대작만큼 복잡하지 �
 - [전파미디어 — 에리카와 요이치·게이코 인터뷰](https://news.denfaminicogamer.jp/projectbook/koei)
 - [GameMakers — CEDEC 2023 시부사와 코우 강연](https://gamemakers.jp/article/2023_09_29_49859/)
 - [ITmedia 네토라보 — 초대작 42종 패키지 조사](https://nlab.itmedia.co.jp/cont/articles/3708569/)
-- [패미통 — 1983년 3월 30일 발매 회고](https://www.famitsu.com/news/202403/30338120.html)
+- [파미통 — 1983년 3월 30일 발매 회고](https://www.famitsu.com/news/202403/30338120.html)
 - [GAMECITY — 시부사와 코우의 『삼국지』 회고](https://www.gamecity.ne.jp/shibusawakou/2012/04/2-6.html)
 
 **작성 기준: 2026-09-07 KST**
